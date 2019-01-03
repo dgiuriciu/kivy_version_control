@@ -1,4 +1,3 @@
-
 #: import FadeTransition kivy.uix.screenmanager.FadeTransition
 
 
@@ -19,10 +18,10 @@
                 cols: 1
                 TextInput:
                     id: username_input
-                    text: "Github username here"
+                    text: "dgiuriciu"
                 Button:
                     text: "Fetch repositories"
-                    on_release: root.populate_repository_screen(username_input.text, True)
+                    on_release: root.populate_repository_screen(username_input.text)
                 GridLayout:
                     cols: 2
                     BoxLayout:
