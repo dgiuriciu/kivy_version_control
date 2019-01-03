@@ -1,0 +1,127 @@
+
+#: import FadeTransition kivy.uix.screenmanager.FadeTransition
+
+
+<RootWidget>:
+    manager: manager
+    commits_box: commits_box
+    ScreenManager:
+
+        id: manager
+        transition: FadeTransition()
+
+        Screen:
+            id: main_screen
+            name: "main"
+            GridLayout:
+                spacing: 10
+                padding: 10
+                cols: 1
+                TextInput:
+                    id: username_input
+                    text: "Github username here"
+                Button:
+                    text: "Fetch repositories"
+                    on_release: root.populate_repository_screen(username_input.text, True)
+                GridLayout:
+                    cols: 2
+                    BoxLayout:
+                        orientation: 'horizontal'
+                        Label:
+                            text: 'Remember User?'
+                        CheckBox:
+                    ScrollView:
+                        size: self.size
+                        GridLayout:
+                            height: self.minimum_height
+                            cols: 1
+                            size_hint_y: None
+                            row_default_height: '40dp'
+                            row_force_default: True
+                            Label:
+                                text_size: self.width, None
+                                text: "some repository\nandthensome\nothershot"
+                            Label:
+                                text_size: self.width, None
+                                text: "some other repository"
+                            Label:
+                                text_size: self.width, None
+                                text: "some repository"
+                            Label:
+                                text_size: self.width, None
+                                text: "some repository"
+                            Label:
+                                text_size: self.width, None
+                                text: "another repository"
+                            Label:
+                                halign: 'left'
+                                valign: 'middle'
+                                text: "running outta ideas man"
+                            Label:
+                                halign: 'left'
+                                valign: 'middle'
+                                text: "this should be the last one"
+                            Label:
+                                halign: 'left'
+                                valign: 'middle'
+                                text: "But why not be a little extra"
+
+        Screen:
+            id: repo_screen
+            name: "repos"
+            GridLayout:
+                rows: 2
+
+                Button:
+                    on_release: manager.current = "main"
+                    text: "back"
+                    font_size: 25
+                GridLayout:
+                    id: repo_list
+                    cols: 2
+        Screen:
+            id: details_screen
+            name: "details"
+            GridLayout:
+                cols: 1
+                Button:
+                    text: "back"
+                    on_release: manager.current = "repos"
+                Label:
+                    text_size: self.size
+                    halign: 'left'
+                    valign: 'middle'
+                    text: "Last 5 commits"
+
+                ScrollView:
+                    size: self.size
+                    GridLayout:
+                        id: commits_box
+                        cols: 1
+                        spacing: 40
+                        padding: 40
+                        size_hint_y: None
+                        row_default_height: '40dp'
+                        row_force_default: True
+                Label:
+                    text_size: self.size
+                    text: "Open pull Requests"
+                    halign: 'left'
+                    valign: 'middle'
+
+                ScrollView:
+                    size: self.size
+                    GridLayout:
+                        id: pr_box
+                        cols: 1
+                        spacing: 40
+                        padding: 40
+                        size_hint_y: None
+                        row_default_height: '40dp'
+                        row_force_default: True
+                        
+
+                
+                
+                
+                                

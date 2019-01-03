@@ -1,0 +1,2387 @@
+[
+  {
+    "sha": "d4c55a3da5dbee1d53375ce8c56ca4d1bd18ba0b",
+    "node_id": "MDY6Q29tbWl0MTQxMDAxNTczOmQ0YzU1YTNkYTVkYmVlMWQ1MzM3NWNlOGM1NmNhNGQxYmQxOGJhMGI=",
+    "commit": {
+      "author": {
+        "name": "Jay Boice",
+        "email": "jboice@gmail.com",
+        "date": "2018-07-03T15:47:16Z"
+      },
+      "committer": {
+        "name": "Jay Boice",
+        "email": "jboice@gmail.com",
+        "date": "2018-07-03T15:47:16Z"
+      },
+      "message": "Add data dictionary for mlb-elo, closes #194",
+      "tree": {
+        "sha": "70deef6ea908bae08fb67af60fcc19e93d1a7814",
+        "url": "https://api.github.com/repos/dgiuriciu/data/git/trees/70deef6ea908bae08fb67af60fcc19e93d1a7814"
+      },
+      "url": "https://api.github.com/repos/dgiuriciu/data/git/commits/d4c55a3da5dbee1d53375ce8c56ca4d1bd18ba0b",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/dgiuriciu/data/commits/d4c55a3da5dbee1d53375ce8c56ca4d1bd18ba0b",
+    "html_url": "https://github.com/dgiuriciu/data/commit/d4c55a3da5dbee1d53375ce8c56ca4d1bd18ba0b",
+    "comments_url": "https://api.github.com/repos/dgiuriciu/data/commits/d4c55a3da5dbee1d53375ce8c56ca4d1bd18ba0b/comments",
+    "author": {
+      "login": "jayb",
+      "id": 57236,
+      "node_id": "MDQ6VXNlcjU3MjM2",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/57236?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jayb",
+      "html_url": "https://github.com/jayb",
+      "followers_url": "https://api.github.com/users/jayb/followers",
+      "following_url": "https://api.github.com/users/jayb/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jayb/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jayb/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jayb/subscriptions",
+      "organizations_url": "https://api.github.com/users/jayb/orgs",
+      "repos_url": "https://api.github.com/users/jayb/repos",
+      "events_url": "https://api.github.com/users/jayb/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jayb/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "jayb",
+      "id": 57236,
+      "node_id": "MDQ6VXNlcjU3MjM2",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/57236?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jayb",
+      "html_url": "https://github.com/jayb",
+      "followers_url": "https://api.github.com/users/jayb/followers",
+      "following_url": "https://api.github.com/users/jayb/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jayb/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jayb/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jayb/subscriptions",
+      "organizations_url": "https://api.github.com/users/jayb/orgs",
+      "repos_url": "https://api.github.com/users/jayb/repos",
+      "events_url": "https://api.github.com/users/jayb/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jayb/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "cea35f16af12d3af383dc02d6af63f45c51207bf",
+        "url": "https://api.github.com/repos/dgiuriciu/data/commits/cea35f16af12d3af383dc02d6af63f45c51207bf",
+        "html_url": "https://github.com/dgiuriciu/data/commit/cea35f16af12d3af383dc02d6af63f45c51207bf"
+      }
+    ]
+  },
+  {
+    "sha": "cea35f16af12d3af383dc02d6af63f45c51207bf",
+    "node_id": "MDY6Q29tbWl0MTQxMDAxNTczOmNlYTM1ZjE2YWYxMmQzYWYzODNkYzAyZDZhZjYzZjQ1YzUxMjA3YmY=",
+    "commit": {
+      "author": {
+        "name": "Gus Wezerek",
+        "email": "gwezerek@gmail.com",
+        "date": "2018-07-02T17:58:34Z"
+      },
+      "committer": {
+        "name": "Dhrumil Mehta",
+        "email": "dhrumil.mehta@gmail.com",
+        "date": "2018-07-02T17:58:34Z"
+      },
+      "message": "lebron data (#25)",
+      "tree": {
+        "sha": "39612036cdd2640e529ce8318ca24009e1bc1b47",
+        "url": "https://api.github.com/repos/dgiuriciu/data/git/trees/39612036cdd2640e529ce8318ca24009e1bc1b47"
+      },
+      "url": "https://api.github.com/repos/dgiuriciu/data/git/commits/cea35f16af12d3af383dc02d6af63f45c51207bf",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/dgiuriciu/data/commits/cea35f16af12d3af383dc02d6af63f45c51207bf",
+    "html_url": "https://github.com/dgiuriciu/data/commit/cea35f16af12d3af383dc02d6af63f45c51207bf",
+    "comments_url": "https://api.github.com/repos/dgiuriciu/data/commits/cea35f16af12d3af383dc02d6af63f45c51207bf/comments",
+    "author": {
+      "login": "gwezerek",
+      "id": 1715461,
+      "node_id": "MDQ6VXNlcjE3MTU0NjE=",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1715461?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/gwezerek",
+      "html_url": "https://github.com/gwezerek",
+      "followers_url": "https://api.github.com/users/gwezerek/followers",
+      "following_url": "https://api.github.com/users/gwezerek/following{/other_user}",
+      "gists_url": "https://api.github.com/users/gwezerek/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/gwezerek/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/gwezerek/subscriptions",
+      "organizations_url": "https://api.github.com/users/gwezerek/orgs",
+      "repos_url": "https://api.github.com/users/gwezerek/repos",
+      "events_url": "https://api.github.com/users/gwezerek/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/gwezerek/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "dmil",
+      "id": 468544,
+      "node_id": "MDQ6VXNlcjQ2ODU0NA==",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/468544?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/dmil",
+      "html_url": "https://github.com/dmil",
+      "followers_url": "https://api.github.com/users/dmil/followers",
+      "following_url": "https://api.github.com/users/dmil/following{/other_user}",
+      "gists_url": "https://api.github.com/users/dmil/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/dmil/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/dmil/subscriptions",
+      "organizations_url": "https://api.github.com/users/dmil/orgs",
+      "repos_url": "https://api.github.com/users/dmil/repos",
+      "events_url": "https://api.github.com/users/dmil/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/dmil/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "c1c437f02bac0128749e8bbf7157595a9a97bcb4",
+        "url": "https://api.github.com/repos/dgiuriciu/data/commits/c1c437f02bac0128749e8bbf7157595a9a97bcb4",
+        "html_url": "https://github.com/dgiuriciu/data/commit/c1c437f02bac0128749e8bbf7157595a9a97bcb4"
+      }
+    ]
+  },
+  {
+    "sha": "c1c437f02bac0128749e8bbf7157595a9a97bcb4",
+    "node_id": "MDY6Q29tbWl0MTQxMDAxNTczOmMxYzQzN2YwMmJhYzAxMjg3NDllOGJiZjcxNTc1OTVhOWE5N2JjYjQ=",
+    "commit": {
+      "author": {
+        "name": "Jay Boice",
+        "email": "jboice@gmail.com",
+        "date": "2018-06-29T14:23:38Z"
+      },
+      "committer": {
+        "name": "Jay Boice",
+        "email": "jboice@gmail.com",
+        "date": "2018-06-29T14:23:38Z"
+      },
+      "message": "Add file extension for world cup comparisons",
+      "tree": {
+        "sha": "80f25135de44392b985db5513a4fe967dfee9766",
+        "url": "https://api.github.com/repos/dgiuriciu/data/git/trees/80f25135de44392b985db5513a4fe967dfee9766"
+      },
+      "url": "https://api.github.com/repos/dgiuriciu/data/git/commits/c1c437f02bac0128749e8bbf7157595a9a97bcb4",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/dgiuriciu/data/commits/c1c437f02bac0128749e8bbf7157595a9a97bcb4",
+    "html_url": "https://github.com/dgiuriciu/data/commit/c1c437f02bac0128749e8bbf7157595a9a97bcb4",
+    "comments_url": "https://api.github.com/repos/dgiuriciu/data/commits/c1c437f02bac0128749e8bbf7157595a9a97bcb4/comments",
+    "author": {
+      "login": "jayb",
+      "id": 57236,
+      "node_id": "MDQ6VXNlcjU3MjM2",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/57236?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jayb",
+      "html_url": "https://github.com/jayb",
+      "followers_url": "https://api.github.com/users/jayb/followers",
+      "following_url": "https://api.github.com/users/jayb/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jayb/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jayb/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jayb/subscriptions",
+      "organizations_url": "https://api.github.com/users/jayb/orgs",
+      "repos_url": "https://api.github.com/users/jayb/repos",
+      "events_url": "https://api.github.com/users/jayb/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jayb/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "jayb",
+      "id": 57236,
+      "node_id": "MDQ6VXNlcjU3MjM2",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/57236?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jayb",
+      "html_url": "https://github.com/jayb",
+      "followers_url": "https://api.github.com/users/jayb/followers",
+      "following_url": "https://api.github.com/users/jayb/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jayb/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jayb/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jayb/subscriptions",
+      "organizations_url": "https://api.github.com/users/jayb/orgs",
+      "repos_url": "https://api.github.com/users/jayb/repos",
+      "events_url": "https://api.github.com/users/jayb/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jayb/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "fb6eba1ef348673c5872a1ac119800e0e0d8fd8b",
+        "url": "https://api.github.com/repos/dgiuriciu/data/commits/fb6eba1ef348673c5872a1ac119800e0e0d8fd8b",
+        "html_url": "https://github.com/dgiuriciu/data/commit/fb6eba1ef348673c5872a1ac119800e0e0d8fd8b"
+      }
+    ]
+  },
+  {
+    "sha": "fb6eba1ef348673c5872a1ac119800e0e0d8fd8b",
+    "node_id": "MDY6Q29tbWl0MTQxMDAxNTczOmZiNmViYTFlZjM0ODY3M2M1ODcyYTFhYzExOTgwMGUwZTBkOGZkOGI=",
+    "commit": {
+      "author": {
+        "name": "Jay Boice",
+        "email": "jboice@gmail.com",
+        "date": "2018-06-29T13:31:19Z"
+      },
+      "committer": {
+        "name": "Jay Boice",
+        "email": "jboice@gmail.com",
+        "date": "2018-06-29T13:31:19Z"
+      },
+      "message": "Update project name",
+      "tree": {
+        "sha": "b06ee5a944901720b5ad56a13069cacaf782e0cc",
+        "url": "https://api.github.com/repos/dgiuriciu/data/git/trees/b06ee5a944901720b5ad56a13069cacaf782e0cc"
+      },
+      "url": "https://api.github.com/repos/dgiuriciu/data/git/commits/fb6eba1ef348673c5872a1ac119800e0e0d8fd8b",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/dgiuriciu/data/commits/fb6eba1ef348673c5872a1ac119800e0e0d8fd8b",
+    "html_url": "https://github.com/dgiuriciu/data/commit/fb6eba1ef348673c5872a1ac119800e0e0d8fd8b",
+    "comments_url": "https://api.github.com/repos/dgiuriciu/data/commits/fb6eba1ef348673c5872a1ac119800e0e0d8fd8b/comments",
+    "author": {
+      "login": "jayb",
+      "id": 57236,
+      "node_id": "MDQ6VXNlcjU3MjM2",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/57236?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jayb",
+      "html_url": "https://github.com/jayb",
+      "followers_url": "https://api.github.com/users/jayb/followers",
+      "following_url": "https://api.github.com/users/jayb/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jayb/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jayb/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jayb/subscriptions",
+      "organizations_url": "https://api.github.com/users/jayb/orgs",
+      "repos_url": "https://api.github.com/users/jayb/repos",
+      "events_url": "https://api.github.com/users/jayb/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jayb/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "jayb",
+      "id": 57236,
+      "node_id": "MDQ6VXNlcjU3MjM2",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/57236?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jayb",
+      "html_url": "https://github.com/jayb",
+      "followers_url": "https://api.github.com/users/jayb/followers",
+      "following_url": "https://api.github.com/users/jayb/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jayb/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jayb/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jayb/subscriptions",
+      "organizations_url": "https://api.github.com/users/jayb/orgs",
+      "repos_url": "https://api.github.com/users/jayb/repos",
+      "events_url": "https://api.github.com/users/jayb/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jayb/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "7f5611d3220ea4472b895a2220393eba2f18774b",
+        "url": "https://api.github.com/repos/dgiuriciu/data/commits/7f5611d3220ea4472b895a2220393eba2f18774b",
+        "html_url": "https://github.com/dgiuriciu/data/commit/7f5611d3220ea4472b895a2220393eba2f18774b"
+      }
+    ]
+  },
+  {
+    "sha": "7f5611d3220ea4472b895a2220393eba2f18774b",
+    "node_id": "MDY6Q29tbWl0MTQxMDAxNTczOjdmNTYxMWQzMjIwZWE0NDcyYjg5NWEyMjIwMzkzZWJhMmYxODc3NGI=",
+    "commit": {
+      "author": {
+        "name": "Jay Boice",
+        "email": "jboice@gmail.com",
+        "date": "2018-06-29T13:28:08Z"
+      },
+      "committer": {
+        "name": "Jay Boice",
+        "email": "jboice@gmail.com",
+        "date": "2018-06-29T13:28:08Z"
+      },
+      "message": "Add World Cup comparisons",
+      "tree": {
+        "sha": "b65e3cc6522ac60f988a1aa351f9d174d95125d6",
+        "url": "https://api.github.com/repos/dgiuriciu/data/git/trees/b65e3cc6522ac60f988a1aa351f9d174d95125d6"
+      },
+      "url": "https://api.github.com/repos/dgiuriciu/data/git/commits/7f5611d3220ea4472b895a2220393eba2f18774b",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/dgiuriciu/data/commits/7f5611d3220ea4472b895a2220393eba2f18774b",
+    "html_url": "https://github.com/dgiuriciu/data/commit/7f5611d3220ea4472b895a2220393eba2f18774b",
+    "comments_url": "https://api.github.com/repos/dgiuriciu/data/commits/7f5611d3220ea4472b895a2220393eba2f18774b/comments",
+    "author": {
+      "login": "jayb",
+      "id": 57236,
+      "node_id": "MDQ6VXNlcjU3MjM2",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/57236?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jayb",
+      "html_url": "https://github.com/jayb",
+      "followers_url": "https://api.github.com/users/jayb/followers",
+      "following_url": "https://api.github.com/users/jayb/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jayb/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jayb/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jayb/subscriptions",
+      "organizations_url": "https://api.github.com/users/jayb/orgs",
+      "repos_url": "https://api.github.com/users/jayb/repos",
+      "events_url": "https://api.github.com/users/jayb/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jayb/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "jayb",
+      "id": 57236,
+      "node_id": "MDQ6VXNlcjU3MjM2",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/57236?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jayb",
+      "html_url": "https://github.com/jayb",
+      "followers_url": "https://api.github.com/users/jayb/followers",
+      "following_url": "https://api.github.com/users/jayb/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jayb/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jayb/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jayb/subscriptions",
+      "organizations_url": "https://api.github.com/users/jayb/orgs",
+      "repos_url": "https://api.github.com/users/jayb/repos",
+      "events_url": "https://api.github.com/users/jayb/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jayb/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "b8389d975c2fca22997037b811547d41175b26a3",
+        "url": "https://api.github.com/repos/dgiuriciu/data/commits/b8389d975c2fca22997037b811547d41175b26a3",
+        "html_url": "https://github.com/dgiuriciu/data/commit/b8389d975c2fca22997037b811547d41175b26a3"
+      }
+    ]
+  },
+  {
+    "sha": "b8389d975c2fca22997037b811547d41175b26a3",
+    "node_id": "MDY6Q29tbWl0MTQxMDAxNTczOmI4Mzg5ZDk3NWMyZmNhMjI5OTcwMzdiODExNTQ3ZDQxMTc1YjI2YTM=",
+    "commit": {
+      "author": {
+        "name": "Dhrumil Mehta",
+        "email": "dhrumil.mehta@gmail.com",
+        "date": "2018-06-20T16:23:19Z"
+      },
+      "committer": {
+        "name": "Dhrumil Mehta",
+        "email": "dhrumil.mehta@gmail.com",
+        "date": "2018-06-20T16:23:19Z"
+      },
+      "message": "Add masculinity-survey to index",
+      "tree": {
+        "sha": "0fb6257dc4290ef7765853d190a8ce01fded12d5",
+        "url": "https://api.github.com/repos/dgiuriciu/data/git/trees/0fb6257dc4290ef7765853d190a8ce01fded12d5"
+      },
+      "url": "https://api.github.com/repos/dgiuriciu/data/git/commits/b8389d975c2fca22997037b811547d41175b26a3",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/dgiuriciu/data/commits/b8389d975c2fca22997037b811547d41175b26a3",
+    "html_url": "https://github.com/dgiuriciu/data/commit/b8389d975c2fca22997037b811547d41175b26a3",
+    "comments_url": "https://api.github.com/repos/dgiuriciu/data/commits/b8389d975c2fca22997037b811547d41175b26a3/comments",
+    "author": {
+      "login": "dmil",
+      "id": 468544,
+      "node_id": "MDQ6VXNlcjQ2ODU0NA==",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/468544?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/dmil",
+      "html_url": "https://github.com/dmil",
+      "followers_url": "https://api.github.com/users/dmil/followers",
+      "following_url": "https://api.github.com/users/dmil/following{/other_user}",
+      "gists_url": "https://api.github.com/users/dmil/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/dmil/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/dmil/subscriptions",
+      "organizations_url": "https://api.github.com/users/dmil/orgs",
+      "repos_url": "https://api.github.com/users/dmil/repos",
+      "events_url": "https://api.github.com/users/dmil/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/dmil/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "dmil",
+      "id": 468544,
+      "node_id": "MDQ6VXNlcjQ2ODU0NA==",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/468544?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/dmil",
+      "html_url": "https://github.com/dmil",
+      "followers_url": "https://api.github.com/users/dmil/followers",
+      "following_url": "https://api.github.com/users/dmil/following{/other_user}",
+      "gists_url": "https://api.github.com/users/dmil/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/dmil/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/dmil/subscriptions",
+      "organizations_url": "https://api.github.com/users/dmil/orgs",
+      "repos_url": "https://api.github.com/users/dmil/repos",
+      "events_url": "https://api.github.com/users/dmil/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/dmil/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "1b3b45243a4a8c67783cbf76a1ee74a2a6ca97ee",
+        "url": "https://api.github.com/repos/dgiuriciu/data/commits/1b3b45243a4a8c67783cbf76a1ee74a2a6ca97ee",
+        "html_url": "https://github.com/dgiuriciu/data/commit/1b3b45243a4a8c67783cbf76a1ee74a2a6ca97ee"
+      }
+    ]
+  },
+  {
+    "sha": "1b3b45243a4a8c67783cbf76a1ee74a2a6ca97ee",
+    "node_id": "MDY6Q29tbWl0MTQxMDAxNTczOjFiM2I0NTI0M2E0YThjNjc3ODNjYmY3NmExZWU3NGEyYTZjYTk3ZWU=",
+    "commit": {
+      "author": {
+        "name": "Dhrumil Mehta",
+        "email": "dhrumil.mehta@gmail.com",
+        "date": "2018-06-19T21:52:00Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2018-06-19T21:52:00Z"
+      },
+      "message": "Masculinity survey (#24)\n\nadd masculinity-survey",
+      "tree": {
+        "sha": "0c27fb856115352e414969d85ae1c0cb4dfd641a",
+        "url": "https://api.github.com/repos/dgiuriciu/data/git/trees/0c27fb856115352e414969d85ae1c0cb4dfd641a"
+      },
+      "url": "https://api.github.com/repos/dgiuriciu/data/git/commits/1b3b45243a4a8c67783cbf76a1ee74a2a6ca97ee",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJbKXsACRBK7hj4Ov3rIwAAdHIIABmKAB13h3wfUdcIS1QE41a6\n9zbXc9VJJTNjX1Ee+Z4EUzhNce/w2UkJO/x2Ay7Hy3sJYqtOKJ6Xokoez3JFosgw\ndCgo3HLTV6DTD4i2PoIahYmJKYCCpp6fEKIFWdkEMIBrqbzm/Ueo3sfoIn2L87tu\ns3OyULyt0Q8ftRGFfYuMOZj6w0XXtVOMYIp6/8awg4rbnd09ds3Vs8Ny34KHsuDV\n6VoG7uB4htTnEsbSUL4PUtDtQ5EjBlTOL+6L6ByuA0t5SI+qz5ebWKMkrqVNRGYn\nEk5GWXxCX8oBf6cPQ4rW5x2V5VVGlwDDk7yG/NbbtLGq+LJK0kQOZUkEBahNuwE=\n=SAIx\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 0c27fb856115352e414969d85ae1c0cb4dfd641a\nparent 2b253d65187b678057a510ad4bcf39cd5606f2c1\nauthor Dhrumil Mehta <dhrumil.mehta@gmail.com> 1529445120 -0400\ncommitter GitHub <noreply@github.com> 1529445120 -0400\n\nMasculinity survey (#24)\n\nadd masculinity-survey"
+      }
+    },
+    "url": "https://api.github.com/repos/dgiuriciu/data/commits/1b3b45243a4a8c67783cbf76a1ee74a2a6ca97ee",
+    "html_url": "https://github.com/dgiuriciu/data/commit/1b3b45243a4a8c67783cbf76a1ee74a2a6ca97ee",
+    "comments_url": "https://api.github.com/repos/dgiuriciu/data/commits/1b3b45243a4a8c67783cbf76a1ee74a2a6ca97ee/comments",
+    "author": {
+      "login": "dmil",
+      "id": 468544,
+      "node_id": "MDQ6VXNlcjQ2ODU0NA==",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/468544?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/dmil",
+      "html_url": "https://github.com/dmil",
+      "followers_url": "https://api.github.com/users/dmil/followers",
+      "following_url": "https://api.github.com/users/dmil/following{/other_user}",
+      "gists_url": "https://api.github.com/users/dmil/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/dmil/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/dmil/subscriptions",
+      "organizations_url": "https://api.github.com/users/dmil/orgs",
+      "repos_url": "https://api.github.com/users/dmil/repos",
+      "events_url": "https://api.github.com/users/dmil/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/dmil/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "2b253d65187b678057a510ad4bcf39cd5606f2c1",
+        "url": "https://api.github.com/repos/dgiuriciu/data/commits/2b253d65187b678057a510ad4bcf39cd5606f2c1",
+        "html_url": "https://github.com/dgiuriciu/data/commit/2b253d65187b678057a510ad4bcf39cd5606f2c1"
+      }
+    ]
+  },
+  {
+    "sha": "2b253d65187b678057a510ad4bcf39cd5606f2c1",
+    "node_id": "MDY6Q29tbWl0MTQxMDAxNTczOjJiMjUzZDY1MTg3YjY3ODA1N2E1MTBhZDRiY2YzOWNkNTYwNmYyYzE=",
+    "commit": {
+      "author": {
+        "name": "Dhrumil Mehta",
+        "email": "dhrumil.mehta@gmail.com",
+        "date": "2018-06-13T19:33:52Z"
+      },
+      "committer": {
+        "name": "Dhrumil Mehta",
+        "email": "dhrumil.mehta@gmail.com",
+        "date": "2018-06-13T19:33:52Z"
+      },
+      "message": "Revert \"NBA is no longer live\"\n\nThis reverts commit 5b11c107cc2292fe0ab4465d08f84519be3b7fcf.",
+      "tree": {
+        "sha": "9d32489537687003fa57557542fae5504a4da86d",
+        "url": "https://api.github.com/repos/dgiuriciu/data/git/trees/9d32489537687003fa57557542fae5504a4da86d"
+      },
+      "url": "https://api.github.com/repos/dgiuriciu/data/git/commits/2b253d65187b678057a510ad4bcf39cd5606f2c1",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/dgiuriciu/data/commits/2b253d65187b678057a510ad4bcf39cd5606f2c1",
+    "html_url": "https://github.com/dgiuriciu/data/commit/2b253d65187b678057a510ad4bcf39cd5606f2c1",
+    "comments_url": "https://api.github.com/repos/dgiuriciu/data/commits/2b253d65187b678057a510ad4bcf39cd5606f2c1/comments",
+    "author": {
+      "login": "dmil",
+      "id": 468544,
+      "node_id": "MDQ6VXNlcjQ2ODU0NA==",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/468544?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/dmil",
+      "html_url": "https://github.com/dmil",
+      "followers_url": "https://api.github.com/users/dmil/followers",
+      "following_url": "https://api.github.com/users/dmil/following{/other_user}",
+      "gists_url": "https://api.github.com/users/dmil/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/dmil/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/dmil/subscriptions",
+      "organizations_url": "https://api.github.com/users/dmil/orgs",
+      "repos_url": "https://api.github.com/users/dmil/repos",
+      "events_url": "https://api.github.com/users/dmil/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/dmil/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "dmil",
+      "id": 468544,
+      "node_id": "MDQ6VXNlcjQ2ODU0NA==",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/468544?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/dmil",
+      "html_url": "https://github.com/dmil",
+      "followers_url": "https://api.github.com/users/dmil/followers",
+      "following_url": "https://api.github.com/users/dmil/following{/other_user}",
+      "gists_url": "https://api.github.com/users/dmil/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/dmil/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/dmil/subscriptions",
+      "organizations_url": "https://api.github.com/users/dmil/orgs",
+      "repos_url": "https://api.github.com/users/dmil/repos",
+      "events_url": "https://api.github.com/users/dmil/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/dmil/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "5b11c107cc2292fe0ab4465d08f84519be3b7fcf",
+        "url": "https://api.github.com/repos/dgiuriciu/data/commits/5b11c107cc2292fe0ab4465d08f84519be3b7fcf",
+        "html_url": "https://github.com/dgiuriciu/data/commit/5b11c107cc2292fe0ab4465d08f84519be3b7fcf"
+      }
+    ]
+  },
+  {
+    "sha": "5b11c107cc2292fe0ab4465d08f84519be3b7fcf",
+    "node_id": "MDY6Q29tbWl0MTQxMDAxNTczOjViMTFjMTA3Y2MyMjkyZmUwYWI0NDY1ZDA4Zjg0NTE5YmUzYjdmY2Y=",
+    "commit": {
+      "author": {
+        "name": "Jay Boice",
+        "email": "jboice@gmail.com",
+        "date": "2018-06-13T14:29:16Z"
+      },
+      "committer": {
+        "name": "Jay Boice",
+        "email": "jboice@gmail.com",
+        "date": "2018-06-13T14:29:16Z"
+      },
+      "message": "NBA is no longer live",
+      "tree": {
+        "sha": "0d15a4cafe43dc6501af25cbe46a39454d698a38",
+        "url": "https://api.github.com/repos/dgiuriciu/data/git/trees/0d15a4cafe43dc6501af25cbe46a39454d698a38"
+      },
+      "url": "https://api.github.com/repos/dgiuriciu/data/git/commits/5b11c107cc2292fe0ab4465d08f84519be3b7fcf",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/dgiuriciu/data/commits/5b11c107cc2292fe0ab4465d08f84519be3b7fcf",
+    "html_url": "https://github.com/dgiuriciu/data/commit/5b11c107cc2292fe0ab4465d08f84519be3b7fcf",
+    "comments_url": "https://api.github.com/repos/dgiuriciu/data/commits/5b11c107cc2292fe0ab4465d08f84519be3b7fcf/comments",
+    "author": {
+      "login": "jayb",
+      "id": 57236,
+      "node_id": "MDQ6VXNlcjU3MjM2",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/57236?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jayb",
+      "html_url": "https://github.com/jayb",
+      "followers_url": "https://api.github.com/users/jayb/followers",
+      "following_url": "https://api.github.com/users/jayb/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jayb/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jayb/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jayb/subscriptions",
+      "organizations_url": "https://api.github.com/users/jayb/orgs",
+      "repos_url": "https://api.github.com/users/jayb/repos",
+      "events_url": "https://api.github.com/users/jayb/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jayb/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "jayb",
+      "id": 57236,
+      "node_id": "MDQ6VXNlcjU3MjM2",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/57236?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jayb",
+      "html_url": "https://github.com/jayb",
+      "followers_url": "https://api.github.com/users/jayb/followers",
+      "following_url": "https://api.github.com/users/jayb/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jayb/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jayb/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jayb/subscriptions",
+      "organizations_url": "https://api.github.com/users/jayb/orgs",
+      "repos_url": "https://api.github.com/users/jayb/repos",
+      "events_url": "https://api.github.com/users/jayb/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jayb/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "83ec2bed46961d688435345323c2468bb9696e6d",
+        "url": "https://api.github.com/repos/dgiuriciu/data/commits/83ec2bed46961d688435345323c2468bb9696e6d",
+        "html_url": "https://github.com/dgiuriciu/data/commit/83ec2bed46961d688435345323c2468bb9696e6d"
+      }
+    ]
+  },
+  {
+    "sha": "83ec2bed46961d688435345323c2468bb9696e6d",
+    "node_id": "MDY6Q29tbWl0MTQxMDAxNTczOjgzZWMyYmVkNDY5NjFkNjg4NDM1MzQ1MzIzYzI0NjhiYjk2OTZlNmQ=",
+    "commit": {
+      "author": {
+        "name": "Jay Boice",
+        "email": "jboice@gmail.com",
+        "date": "2018-06-13T14:24:28Z"
+      },
+      "committer": {
+        "name": "Jay Boice",
+        "email": "jboice@gmail.com",
+        "date": "2018-06-13T14:24:28Z"
+      },
+      "message": "Add links for world cup",
+      "tree": {
+        "sha": "9d32489537687003fa57557542fae5504a4da86d",
+        "url": "https://api.github.com/repos/dgiuriciu/data/git/trees/9d32489537687003fa57557542fae5504a4da86d"
+      },
+      "url": "https://api.github.com/repos/dgiuriciu/data/git/commits/83ec2bed46961d688435345323c2468bb9696e6d",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/dgiuriciu/data/commits/83ec2bed46961d688435345323c2468bb9696e6d",
+    "html_url": "https://github.com/dgiuriciu/data/commit/83ec2bed46961d688435345323c2468bb9696e6d",
+    "comments_url": "https://api.github.com/repos/dgiuriciu/data/commits/83ec2bed46961d688435345323c2468bb9696e6d/comments",
+    "author": {
+      "login": "jayb",
+      "id": 57236,
+      "node_id": "MDQ6VXNlcjU3MjM2",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/57236?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jayb",
+      "html_url": "https://github.com/jayb",
+      "followers_url": "https://api.github.com/users/jayb/followers",
+      "following_url": "https://api.github.com/users/jayb/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jayb/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jayb/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jayb/subscriptions",
+      "organizations_url": "https://api.github.com/users/jayb/orgs",
+      "repos_url": "https://api.github.com/users/jayb/repos",
+      "events_url": "https://api.github.com/users/jayb/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jayb/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "jayb",
+      "id": 57236,
+      "node_id": "MDQ6VXNlcjU3MjM2",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/57236?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jayb",
+      "html_url": "https://github.com/jayb",
+      "followers_url": "https://api.github.com/users/jayb/followers",
+      "following_url": "https://api.github.com/users/jayb/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jayb/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jayb/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jayb/subscriptions",
+      "organizations_url": "https://api.github.com/users/jayb/orgs",
+      "repos_url": "https://api.github.com/users/jayb/repos",
+      "events_url": "https://api.github.com/users/jayb/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jayb/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "de2dfac210b1d63c8a1c160a1e6acbf8dc0b7e6f",
+        "url": "https://api.github.com/repos/dgiuriciu/data/commits/de2dfac210b1d63c8a1c160a1e6acbf8dc0b7e6f",
+        "html_url": "https://github.com/dgiuriciu/data/commit/de2dfac210b1d63c8a1c160a1e6acbf8dc0b7e6f"
+      }
+    ]
+  },
+  {
+    "sha": "de2dfac210b1d63c8a1c160a1e6acbf8dc0b7e6f",
+    "node_id": "MDY6Q29tbWl0MTQxMDAxNTczOmRlMmRmYWMyMTBiMWQ2M2M4YTFjMTYwYTFlNmFjYmY4ZGMwYjdlNmY=",
+    "commit": {
+      "author": {
+        "name": "Dhrumil Mehta",
+        "email": "dhrumil.mehta@gmail.com",
+        "date": "2018-05-31T18:14:57Z"
+      },
+      "committer": {
+        "name": "Dhrumil Mehta",
+        "email": "dhrumil.mehta@gmail.com",
+        "date": "2018-05-31T18:14:57Z"
+      },
+      "message": "rename Google Consumer Surveys --> Google Surveys in pollster-ratings",
+      "tree": {
+        "sha": "47fcdf9ad502cd4feeb9a78787f6e4624e1f5cdb",
+        "url": "https://api.github.com/repos/dgiuriciu/data/git/trees/47fcdf9ad502cd4feeb9a78787f6e4624e1f5cdb"
+      },
+      "url": "https://api.github.com/repos/dgiuriciu/data/git/commits/de2dfac210b1d63c8a1c160a1e6acbf8dc0b7e6f",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/dgiuriciu/data/commits/de2dfac210b1d63c8a1c160a1e6acbf8dc0b7e6f",
+    "html_url": "https://github.com/dgiuriciu/data/commit/de2dfac210b1d63c8a1c160a1e6acbf8dc0b7e6f",
+    "comments_url": "https://api.github.com/repos/dgiuriciu/data/commits/de2dfac210b1d63c8a1c160a1e6acbf8dc0b7e6f/comments",
+    "author": {
+      "login": "dmil",
+      "id": 468544,
+      "node_id": "MDQ6VXNlcjQ2ODU0NA==",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/468544?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/dmil",
+      "html_url": "https://github.com/dmil",
+      "followers_url": "https://api.github.com/users/dmil/followers",
+      "following_url": "https://api.github.com/users/dmil/following{/other_user}",
+      "gists_url": "https://api.github.com/users/dmil/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/dmil/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/dmil/subscriptions",
+      "organizations_url": "https://api.github.com/users/dmil/orgs",
+      "repos_url": "https://api.github.com/users/dmil/repos",
+      "events_url": "https://api.github.com/users/dmil/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/dmil/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "dmil",
+      "id": 468544,
+      "node_id": "MDQ6VXNlcjQ2ODU0NA==",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/468544?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/dmil",
+      "html_url": "https://github.com/dmil",
+      "followers_url": "https://api.github.com/users/dmil/followers",
+      "following_url": "https://api.github.com/users/dmil/following{/other_user}",
+      "gists_url": "https://api.github.com/users/dmil/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/dmil/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/dmil/subscriptions",
+      "organizations_url": "https://api.github.com/users/dmil/orgs",
+      "repos_url": "https://api.github.com/users/dmil/repos",
+      "events_url": "https://api.github.com/users/dmil/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/dmil/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "36a7f9471df545c2913714d66b542e31c2531bb1",
+        "url": "https://api.github.com/repos/dgiuriciu/data/commits/36a7f9471df545c2913714d66b542e31c2531bb1",
+        "html_url": "https://github.com/dgiuriciu/data/commit/36a7f9471df545c2913714d66b542e31c2531bb1"
+      }
+    ]
+  },
+  {
+    "sha": "36a7f9471df545c2913714d66b542e31c2531bb1",
+    "node_id": "MDY6Q29tbWl0MTQxMDAxNTczOjM2YTdmOTQ3MWRmNTQ1YzI5MTM3MTRkNjZiNTQyZTMxYzI1MzFiYjE=",
+    "commit": {
+      "author": {
+        "name": "Dhrumil Mehta",
+        "email": "dhrumil.mehta@gmail.com",
+        "date": "2018-05-30T16:10:20Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2018-05-30T16:10:20Z"
+      },
+      "message": "Update README.md",
+      "tree": {
+        "sha": "0ada9d9228b4afb795703eae4203f8c449893a56",
+        "url": "https://api.github.com/repos/dgiuriciu/data/git/trees/0ada9d9228b4afb795703eae4203f8c449893a56"
+      },
+      "url": "https://api.github.com/repos/dgiuriciu/data/git/commits/36a7f9471df545c2913714d66b542e31c2531bb1",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJbDszsCRBK7hj4Ov3rIwAAdHIIAFsMhp1TSZYoDsidQQKrcTD1\ny+xRa6FpoTMHUAOy/lUtxH3sFcFzHpGUHjOpI1o/6SkrWcXYKwVfElBla0vdI0PP\nGYUsgFn2IDzyXUqWI4vHs1wWMpLI/UBWjyKvWFs1GdZilanBTSfaTcrQwROU744r\npUFrFlh77EPLoNlJVMG9rcVki3sE7XVj2FvzX3F4R2C7WwV9xrJ1C5uq0melwU0S\nYmQ/Ny92VX/qHBmFsRDgHpudINrf4pMLU9zGHOxP5XWno8JvicmqapwjMB5eMwSR\nGoQwcdUpQB2ov+cLzgqvG4/Cpq7bB/8JgHPDuQ0DvicoL0hf9jJWkP+uj3BVcTQ=\n=zyPF\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 0ada9d9228b4afb795703eae4203f8c449893a56\nparent 48322444d2a223ebd630d39c03860204bbedd85b\nauthor Dhrumil Mehta <dhrumil.mehta@gmail.com> 1527696620 -0400\ncommitter GitHub <noreply@github.com> 1527696620 -0400\n\nUpdate README.md"
+      }
+    },
+    "url": "https://api.github.com/repos/dgiuriciu/data/commits/36a7f9471df545c2913714d66b542e31c2531bb1",
+    "html_url": "https://github.com/dgiuriciu/data/commit/36a7f9471df545c2913714d66b542e31c2531bb1",
+    "comments_url": "https://api.github.com/repos/dgiuriciu/data/commits/36a7f9471df545c2913714d66b542e31c2531bb1/comments",
+    "author": {
+      "login": "dmil",
+      "id": 468544,
+      "node_id": "MDQ6VXNlcjQ2ODU0NA==",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/468544?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/dmil",
+      "html_url": "https://github.com/dmil",
+      "followers_url": "https://api.github.com/users/dmil/followers",
+      "following_url": "https://api.github.com/users/dmil/following{/other_user}",
+      "gists_url": "https://api.github.com/users/dmil/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/dmil/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/dmil/subscriptions",
+      "organizations_url": "https://api.github.com/users/dmil/orgs",
+      "repos_url": "https://api.github.com/users/dmil/repos",
+      "events_url": "https://api.github.com/users/dmil/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/dmil/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "48322444d2a223ebd630d39c03860204bbedd85b",
+        "url": "https://api.github.com/repos/dgiuriciu/data/commits/48322444d2a223ebd630d39c03860204bbedd85b",
+        "html_url": "https://github.com/dgiuriciu/data/commit/48322444d2a223ebd630d39c03860204bbedd85b"
+      }
+    ]
+  },
+  {
+    "sha": "48322444d2a223ebd630d39c03860204bbedd85b",
+    "node_id": "MDY6Q29tbWl0MTQxMDAxNTczOjQ4MzIyNDQ0ZDJhMjIzZWJkNjMwZDM5YzAzODYwMjA0YmJlZGQ4NWI=",
+    "commit": {
+      "author": {
+        "name": "Dhrumil Mehta",
+        "email": "dhrumil.mehta@gmail.com",
+        "date": "2018-05-30T15:12:51Z"
+      },
+      "committer": {
+        "name": "Dhrumil Mehta",
+        "email": "dhrumil.mehta@gmail.com",
+        "date": "2018-05-30T15:12:51Z"
+      },
+      "message": "add pollster ratings to data-webpage",
+      "tree": {
+        "sha": "f1fa5b2475399c935d06cd0655d35e35b023edfb",
+        "url": "https://api.github.com/repos/dgiuriciu/data/git/trees/f1fa5b2475399c935d06cd0655d35e35b023edfb"
+      },
+      "url": "https://api.github.com/repos/dgiuriciu/data/git/commits/48322444d2a223ebd630d39c03860204bbedd85b",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/dgiuriciu/data/commits/48322444d2a223ebd630d39c03860204bbedd85b",
+    "html_url": "https://github.com/dgiuriciu/data/commit/48322444d2a223ebd630d39c03860204bbedd85b",
+    "comments_url": "https://api.github.com/repos/dgiuriciu/data/commits/48322444d2a223ebd630d39c03860204bbedd85b/comments",
+    "author": {
+      "login": "dmil",
+      "id": 468544,
+      "node_id": "MDQ6VXNlcjQ2ODU0NA==",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/468544?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/dmil",
+      "html_url": "https://github.com/dmil",
+      "followers_url": "https://api.github.com/users/dmil/followers",
+      "following_url": "https://api.github.com/users/dmil/following{/other_user}",
+      "gists_url": "https://api.github.com/users/dmil/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/dmil/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/dmil/subscriptions",
+      "organizations_url": "https://api.github.com/users/dmil/orgs",
+      "repos_url": "https://api.github.com/users/dmil/repos",
+      "events_url": "https://api.github.com/users/dmil/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/dmil/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "dmil",
+      "id": 468544,
+      "node_id": "MDQ6VXNlcjQ2ODU0NA==",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/468544?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/dmil",
+      "html_url": "https://github.com/dmil",
+      "followers_url": "https://api.github.com/users/dmil/followers",
+      "following_url": "https://api.github.com/users/dmil/following{/other_user}",
+      "gists_url": "https://api.github.com/users/dmil/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/dmil/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/dmil/subscriptions",
+      "organizations_url": "https://api.github.com/users/dmil/orgs",
+      "repos_url": "https://api.github.com/users/dmil/repos",
+      "events_url": "https://api.github.com/users/dmil/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/dmil/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "142cad5610ed6b3468e730199034b280b9e805d5",
+        "url": "https://api.github.com/repos/dgiuriciu/data/commits/142cad5610ed6b3468e730199034b280b9e805d5",
+        "html_url": "https://github.com/dgiuriciu/data/commit/142cad5610ed6b3468e730199034b280b9e805d5"
+      }
+    ]
+  },
+  {
+    "sha": "142cad5610ed6b3468e730199034b280b9e805d5",
+    "node_id": "MDY6Q29tbWl0MTQxMDAxNTczOjE0MmNhZDU2MTBlZDZiMzQ2OGU3MzAxOTkwMzRiMjgwYjllODA1ZDU=",
+    "commit": {
+      "author": {
+        "name": "Dhrumil Mehta",
+        "email": "dhrumil.mehta@gmail.com",
+        "date": "2018-05-30T14:41:12Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2018-05-30T14:41:12Z"
+      },
+      "message": "update pollster-ratings",
+      "tree": {
+        "sha": "db00ed2b59b8a7c7aed477310a73e1f5def4214b",
+        "url": "https://api.github.com/repos/dgiuriciu/data/git/trees/db00ed2b59b8a7c7aed477310a73e1f5def4214b"
+      },
+      "url": "https://api.github.com/repos/dgiuriciu/data/git/commits/142cad5610ed6b3468e730199034b280b9e805d5",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJbDrgICRBK7hj4Ov3rIwAAdHIIAAu0mQQWkzIKj9Hi5utBAgWD\nrjgoCvMzNJNZDRGEuZ2alJSuWsaN3/+HMK0T8lJgpMJujPITfTH+znOEluV8WtAz\n24z83qBh1KBYGNUFA2b+H8s+PjuI2VowO+7L0P0+UR/kJpScbJTnDzLSIobrxqCu\nU2/xgPJujFgjsbX2Oo1UaBMuLZvMGzuicaYE569IGNpNM28I5bOCTskjnDNRtW3k\nI5FxX816U+F/5uLV9dNe7LPtAXJ7esfR5Vjjqi/YKnZScD6Z8heeeiS6V7fPnDMk\nzHJqnrluneo51yrpCsS8Y4/3ng08SIxbx7GXLrmszSfIS/O5ubF9LurRO9vSQao=\n=eif6\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree db00ed2b59b8a7c7aed477310a73e1f5def4214b\nparent ae8512edb504681c5e7251432507936d1064dfd7\nauthor Dhrumil Mehta <dhrumil.mehta@gmail.com> 1527691272 -0400\ncommitter GitHub <noreply@github.com> 1527691272 -0400\n\nupdate pollster-ratings\n\n\r\n"
+      }
+    },
+    "url": "https://api.github.com/repos/dgiuriciu/data/commits/142cad5610ed6b3468e730199034b280b9e805d5",
+    "html_url": "https://github.com/dgiuriciu/data/commit/142cad5610ed6b3468e730199034b280b9e805d5",
+    "comments_url": "https://api.github.com/repos/dgiuriciu/data/commits/142cad5610ed6b3468e730199034b280b9e805d5/comments",
+    "author": {
+      "login": "dmil",
+      "id": 468544,
+      "node_id": "MDQ6VXNlcjQ2ODU0NA==",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/468544?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/dmil",
+      "html_url": "https://github.com/dmil",
+      "followers_url": "https://api.github.com/users/dmil/followers",
+      "following_url": "https://api.github.com/users/dmil/following{/other_user}",
+      "gists_url": "https://api.github.com/users/dmil/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/dmil/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/dmil/subscriptions",
+      "organizations_url": "https://api.github.com/users/dmil/orgs",
+      "repos_url": "https://api.github.com/users/dmil/repos",
+      "events_url": "https://api.github.com/users/dmil/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/dmil/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "ae8512edb504681c5e7251432507936d1064dfd7",
+        "url": "https://api.github.com/repos/dgiuriciu/data/commits/ae8512edb504681c5e7251432507936d1064dfd7",
+        "html_url": "https://github.com/dgiuriciu/data/commit/ae8512edb504681c5e7251432507936d1064dfd7"
+      }
+    ]
+  },
+  {
+    "sha": "ae8512edb504681c5e7251432507936d1064dfd7",
+    "node_id": "MDY6Q29tbWl0MTQxMDAxNTczOmFlODUxMmVkYjUwNDY4MWM1ZTcyNTE0MzI1MDc5MzZkMTA2NGRmZDc=",
+    "commit": {
+      "author": {
+        "name": "Dhrumil Mehta",
+        "email": "dhrumil.mehta@gmail.com",
+        "date": "2018-05-15T18:14:47Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2018-05-15T18:14:47Z"
+      },
+      "message": "Merge pull request #182 from aDotInTheVoid/fixTypo\n\nfix typo in avengers/README.md",
+      "tree": {
+        "sha": "ff7785a183e2e278fe08a2019cf6e66ac55c87c5",
+        "url": "https://api.github.com/repos/dgiuriciu/data/git/trees/ff7785a183e2e278fe08a2019cf6e66ac55c87c5"
+      },
+      "url": "https://api.github.com/repos/dgiuriciu/data/git/commits/ae8512edb504681c5e7251432507936d1064dfd7",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJa+yOXCRBK7hj4Ov3rIwAAdHIIAK9xWixaqcQLNwhcgiSKfE94\nq8+710oB9zMtZui2B4/CrQ97KVp/50SqTilbP7hIbstGWtI1yrwZVqXbos0BIEHg\n0oSLOwxE4MkRHeMgN5AKYJ1ZsfkMnXrZy8DrKebDpIcdhMkcFrkOjI93WC+PCy8y\nWJAUKrE8CLtIXFU17R36N33mGekWzwhGdMtWUZ0qlPFb4yMGwMg7BuZivJLm0VNs\nuSDtQmMPBe8Oyi9kmxvl68mIMl/mCcPaLariuv6tmn63SNdDpO2boneQRtsgfi+S\ndNWzuKe752vdj2C4Q7CfnyIxS/1nyxyqfq2mgvhl/rCrKSqyYrB2Mxm95Lsw3KE=\n=A+Qu\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree ff7785a183e2e278fe08a2019cf6e66ac55c87c5\nparent e27d5358e922f0315837ff8a3976ee423a36eb49\nparent 11b50e9b1a2e12d5f366f1b5b4c048a71dc29544\nauthor Dhrumil Mehta <dhrumil.mehta@gmail.com> 1526408087 -0400\ncommitter GitHub <noreply@github.com> 1526408087 -0400\n\nMerge pull request #182 from aDotInTheVoid/fixTypo\n\nfix typo in avengers/README.md"
+      }
+    },
+    "url": "https://api.github.com/repos/dgiuriciu/data/commits/ae8512edb504681c5e7251432507936d1064dfd7",
+    "html_url": "https://github.com/dgiuriciu/data/commit/ae8512edb504681c5e7251432507936d1064dfd7",
+    "comments_url": "https://api.github.com/repos/dgiuriciu/data/commits/ae8512edb504681c5e7251432507936d1064dfd7/comments",
+    "author": {
+      "login": "dmil",
+      "id": 468544,
+      "node_id": "MDQ6VXNlcjQ2ODU0NA==",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/468544?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/dmil",
+      "html_url": "https://github.com/dmil",
+      "followers_url": "https://api.github.com/users/dmil/followers",
+      "following_url": "https://api.github.com/users/dmil/following{/other_user}",
+      "gists_url": "https://api.github.com/users/dmil/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/dmil/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/dmil/subscriptions",
+      "organizations_url": "https://api.github.com/users/dmil/orgs",
+      "repos_url": "https://api.github.com/users/dmil/repos",
+      "events_url": "https://api.github.com/users/dmil/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/dmil/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "e27d5358e922f0315837ff8a3976ee423a36eb49",
+        "url": "https://api.github.com/repos/dgiuriciu/data/commits/e27d5358e922f0315837ff8a3976ee423a36eb49",
+        "html_url": "https://github.com/dgiuriciu/data/commit/e27d5358e922f0315837ff8a3976ee423a36eb49"
+      },
+      {
+        "sha": "11b50e9b1a2e12d5f366f1b5b4c048a71dc29544",
+        "url": "https://api.github.com/repos/dgiuriciu/data/commits/11b50e9b1a2e12d5f366f1b5b4c048a71dc29544",
+        "html_url": "https://github.com/dgiuriciu/data/commit/11b50e9b1a2e12d5f366f1b5b4c048a71dc29544"
+      }
+    ]
+  },
+  {
+    "sha": "11b50e9b1a2e12d5f366f1b5b4c048a71dc29544",
+    "node_id": "MDY6Q29tbWl0MTQxMDAxNTczOjExYjUwZTliMWEyZTEyZDVmMzY2ZjFiNWI0YzA0OGE3MWRjMjk1NDQ=",
+    "commit": {
+      "author": {
+        "name": "aDotInTheVoid",
+        "email": "nixon.emoony@gmail.com",
+        "date": "2018-05-09T06:40:32Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2018-05-09T06:40:32Z"
+      },
+      "message": "fix typo in avengers/README.md",
+      "tree": {
+        "sha": "ff7785a183e2e278fe08a2019cf6e66ac55c87c5",
+        "url": "https://api.github.com/repos/dgiuriciu/data/git/trees/ff7785a183e2e278fe08a2019cf6e66ac55c87c5"
+      },
+      "url": "https://api.github.com/repos/dgiuriciu/data/git/commits/11b50e9b1a2e12d5f366f1b5b4c048a71dc29544",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJa8pfgCRBK7hj4Ov3rIwAAdHIIAFl8XsErbwmIPFh+e8eiooFD\nYhVq9ER64+thCgY6cWue2S9A9Ei+ph2cbiL63lLdoj9w64p9tux4llo54QuOlgiK\nVGOo2wNyvAVQeUHoVOZyCeid8Rvts34SOsrwtbDO/e17r7ChavOipZWO0lSBCz1V\nZyMo6w8mrK8qViQOdNBoCUYP3lOo8ptAV7w0SEa1OH4HccSgpi7UH39Iz5sjpU4e\nwaJj6s+UkPzK4fQN6iXfeTf4LGlQ4woIgxBeRDwOAQ6VH+C4ulbz5VsDUBDqQUkd\nlgxt/HFmNqAx3WgG/xjfChbFwzU2bjbGl9hCmHUx5M4+zQ+nFsSuDtnj7sQeQVc=\n=VSsQ\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree ff7785a183e2e278fe08a2019cf6e66ac55c87c5\nparent e27d5358e922f0315837ff8a3976ee423a36eb49\nauthor aDotInTheVoid <nixon.emoony@gmail.com> 1525848032 +0100\ncommitter GitHub <noreply@github.com> 1525848032 +0100\n\nfix typo in avengers/README.md"
+      }
+    },
+    "url": "https://api.github.com/repos/dgiuriciu/data/commits/11b50e9b1a2e12d5f366f1b5b4c048a71dc29544",
+    "html_url": "https://github.com/dgiuriciu/data/commit/11b50e9b1a2e12d5f366f1b5b4c048a71dc29544",
+    "comments_url": "https://api.github.com/repos/dgiuriciu/data/commits/11b50e9b1a2e12d5f366f1b5b4c048a71dc29544/comments",
+    "author": {
+      "login": "aDotInTheVoid",
+      "id": 28781354,
+      "node_id": "MDQ6VXNlcjI4NzgxMzU0",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/28781354?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/aDotInTheVoid",
+      "html_url": "https://github.com/aDotInTheVoid",
+      "followers_url": "https://api.github.com/users/aDotInTheVoid/followers",
+      "following_url": "https://api.github.com/users/aDotInTheVoid/following{/other_user}",
+      "gists_url": "https://api.github.com/users/aDotInTheVoid/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/aDotInTheVoid/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/aDotInTheVoid/subscriptions",
+      "organizations_url": "https://api.github.com/users/aDotInTheVoid/orgs",
+      "repos_url": "https://api.github.com/users/aDotInTheVoid/repos",
+      "events_url": "https://api.github.com/users/aDotInTheVoid/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/aDotInTheVoid/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "e27d5358e922f0315837ff8a3976ee423a36eb49",
+        "url": "https://api.github.com/repos/dgiuriciu/data/commits/e27d5358e922f0315837ff8a3976ee423a36eb49",
+        "html_url": "https://github.com/dgiuriciu/data/commit/e27d5358e922f0315837ff8a3976ee423a36eb49"
+      }
+    ]
+  },
+  {
+    "sha": "e27d5358e922f0315837ff8a3976ee423a36eb49",
+    "node_id": "MDY6Q29tbWl0MTQxMDAxNTczOmUyN2Q1MzU4ZTkyMmYwMzE1ODM3ZmY4YTM5NzZlZTQyM2EzNmViNDk=",
+    "commit": {
+      "author": {
+        "name": "Dhrumil Mehta",
+        "email": "dhrumil.mehta@gmail.com",
+        "date": "2018-05-07T17:55:54Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2018-05-07T17:55:54Z"
+      },
+      "message": "Merge pull request #181 from mikeckennedy/master\n\nChanges encoding to UTF-8 to fix load error.",
+      "tree": {
+        "sha": "df10f02727cd27bee26d34ae0f3060b962e539a3",
+        "url": "https://api.github.com/repos/dgiuriciu/data/git/trees/df10f02727cd27bee26d34ae0f3060b962e539a3"
+      },
+      "url": "https://api.github.com/repos/dgiuriciu/data/git/commits/e27d5358e922f0315837ff8a3976ee423a36eb49",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJa8JMqCRBK7hj4Ov3rIwAAdHIIADdemKmjtrnjFe7YWSuW9S+h\n9bwOcalkATmMdACN+rzmkJdLihYI2p1tLRqkY6drePHIJorNnIfgT1e3xpjbYZBt\nUAMNSlkTdpL94bdaxxCFKih5gEQSa/F9OaUkzbmdKczjeKfQY9xjg783yA4YYIKL\n0KCgZjp7GMbTsf9FKexWEtS2CpG1I7zbAkTL5vUE/HdzcJ8P2b7R5YaLzvSmkjB8\nOc/brSCgXhggRKoL+9FDkkvvzYrMifKF7ZJh/jmzsHVT2GsoByzVuQLaAA8ywDab\nNec5YahBQIenKoynI/qFYiTwHD/TWdPbQUPDlkzLDNj7SL8Cg4tq2HGrJNXXr7s=\n=MwfO\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree df10f02727cd27bee26d34ae0f3060b962e539a3\nparent 51779e9dd31c2c7baf718399288e6943e8731e9c\nparent 8268ea8408ee344ecb39cb88ccf7ae4988290246\nauthor Dhrumil Mehta <dhrumil.mehta@gmail.com> 1525715754 -0400\ncommitter GitHub <noreply@github.com> 1525715754 -0400\n\nMerge pull request #181 from mikeckennedy/master\n\nChanges encoding to UTF-8 to fix load error."
+      }
+    },
+    "url": "https://api.github.com/repos/dgiuriciu/data/commits/e27d5358e922f0315837ff8a3976ee423a36eb49",
+    "html_url": "https://github.com/dgiuriciu/data/commit/e27d5358e922f0315837ff8a3976ee423a36eb49",
+    "comments_url": "https://api.github.com/repos/dgiuriciu/data/commits/e27d5358e922f0315837ff8a3976ee423a36eb49/comments",
+    "author": {
+      "login": "dmil",
+      "id": 468544,
+      "node_id": "MDQ6VXNlcjQ2ODU0NA==",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/468544?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/dmil",
+      "html_url": "https://github.com/dmil",
+      "followers_url": "https://api.github.com/users/dmil/followers",
+      "following_url": "https://api.github.com/users/dmil/following{/other_user}",
+      "gists_url": "https://api.github.com/users/dmil/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/dmil/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/dmil/subscriptions",
+      "organizations_url": "https://api.github.com/users/dmil/orgs",
+      "repos_url": "https://api.github.com/users/dmil/repos",
+      "events_url": "https://api.github.com/users/dmil/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/dmil/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "51779e9dd31c2c7baf718399288e6943e8731e9c",
+        "url": "https://api.github.com/repos/dgiuriciu/data/commits/51779e9dd31c2c7baf718399288e6943e8731e9c",
+        "html_url": "https://github.com/dgiuriciu/data/commit/51779e9dd31c2c7baf718399288e6943e8731e9c"
+      },
+      {
+        "sha": "8268ea8408ee344ecb39cb88ccf7ae4988290246",
+        "url": "https://api.github.com/repos/dgiuriciu/data/commits/8268ea8408ee344ecb39cb88ccf7ae4988290246",
+        "html_url": "https://github.com/dgiuriciu/data/commit/8268ea8408ee344ecb39cb88ccf7ae4988290246"
+      }
+    ]
+  },
+  {
+    "sha": "8268ea8408ee344ecb39cb88ccf7ae4988290246",
+    "node_id": "MDY6Q29tbWl0MTQxMDAxNTczOjgyNjhlYTg0MDhlZTM0NGVjYjM5Y2I4OGNjZjdhZTQ5ODgyOTAyNDY=",
+    "commit": {
+      "author": {
+        "name": "Michael Kennedy",
+        "email": "mikeckennedy@gmail.com",
+        "date": "2018-04-30T21:23:55Z"
+      },
+      "committer": {
+        "name": "Michael Kennedy",
+        "email": "mikeckennedy@gmail.com",
+        "date": "2018-04-30T21:23:55Z"
+      },
+      "message": "Changes encoding to UTF-8 to fix load error.",
+      "tree": {
+        "sha": "df10f02727cd27bee26d34ae0f3060b962e539a3",
+        "url": "https://api.github.com/repos/dgiuriciu/data/git/trees/df10f02727cd27bee26d34ae0f3060b962e539a3"
+      },
+      "url": "https://api.github.com/repos/dgiuriciu/data/git/commits/8268ea8408ee344ecb39cb88ccf7ae4988290246",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/dgiuriciu/data/commits/8268ea8408ee344ecb39cb88ccf7ae4988290246",
+    "html_url": "https://github.com/dgiuriciu/data/commit/8268ea8408ee344ecb39cb88ccf7ae4988290246",
+    "comments_url": "https://api.github.com/repos/dgiuriciu/data/commits/8268ea8408ee344ecb39cb88ccf7ae4988290246/comments",
+    "author": {
+      "login": "mikeckennedy",
+      "id": 2035561,
+      "node_id": "MDQ6VXNlcjIwMzU1NjE=",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/2035561?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/mikeckennedy",
+      "html_url": "https://github.com/mikeckennedy",
+      "followers_url": "https://api.github.com/users/mikeckennedy/followers",
+      "following_url": "https://api.github.com/users/mikeckennedy/following{/other_user}",
+      "gists_url": "https://api.github.com/users/mikeckennedy/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/mikeckennedy/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/mikeckennedy/subscriptions",
+      "organizations_url": "https://api.github.com/users/mikeckennedy/orgs",
+      "repos_url": "https://api.github.com/users/mikeckennedy/repos",
+      "events_url": "https://api.github.com/users/mikeckennedy/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/mikeckennedy/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "mikeckennedy",
+      "id": 2035561,
+      "node_id": "MDQ6VXNlcjIwMzU1NjE=",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/2035561?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/mikeckennedy",
+      "html_url": "https://github.com/mikeckennedy",
+      "followers_url": "https://api.github.com/users/mikeckennedy/followers",
+      "following_url": "https://api.github.com/users/mikeckennedy/following{/other_user}",
+      "gists_url": "https://api.github.com/users/mikeckennedy/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/mikeckennedy/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/mikeckennedy/subscriptions",
+      "organizations_url": "https://api.github.com/users/mikeckennedy/orgs",
+      "repos_url": "https://api.github.com/users/mikeckennedy/repos",
+      "events_url": "https://api.github.com/users/mikeckennedy/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/mikeckennedy/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "51779e9dd31c2c7baf718399288e6943e8731e9c",
+        "url": "https://api.github.com/repos/dgiuriciu/data/commits/51779e9dd31c2c7baf718399288e6943e8731e9c",
+        "html_url": "https://github.com/dgiuriciu/data/commit/51779e9dd31c2c7baf718399288e6943e8731e9c"
+      }
+    ]
+  },
+  {
+    "sha": "51779e9dd31c2c7baf718399288e6943e8731e9c",
+    "node_id": "MDY6Q29tbWl0MTQxMDAxNTczOjUxNzc5ZTlkZDMxYzJjN2JhZjcxODM5OTI4OGU2OTQzZTg3MzFlOWM=",
+    "commit": {
+      "author": {
+        "name": "Andrei Scheinkman",
+        "email": "ascheink@gmail.com",
+        "date": "2018-04-03T16:17:56Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2018-04-03T16:17:56Z"
+      },
+      "message": "Merge pull request #126 from mbrickn/patch-1\n\nUpdated links to use https",
+      "tree": {
+        "sha": "f6213fbe95c1829a85cff1d731e75c37d6e6b24e",
+        "url": "https://api.github.com/repos/dgiuriciu/data/git/trees/f6213fbe95c1829a85cff1d731e75c37d6e6b24e"
+      },
+      "url": "https://api.github.com/repos/dgiuriciu/data/git/commits/51779e9dd31c2c7baf718399288e6943e8731e9c",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJaw6k0CRBK7hj4Ov3rIwAAdHIIADEZUrZceI79SE9DBjYZ4ID4\nJgBKSHgnc44PKi5RiiTkaznZX/ms92AwypqTzKwe2IBTthUqCuBFex0mrWdwq8AF\n1L30bMHyucW9qj0IcBQnFEFV0pGTzaBWCFu1V5WLUKepVjwVhsRLWh2mxaS7008I\n/PP/tfA8NCPI6fgZYHQO/f9CcR6cJS/UbwRmdVQD/HyFeiAOEazruaQLguHeblrQ\nKNuUIYNg4n86VZU+47UuqYWLTuJo/7pyQha7FammmgdFmjuuQvhon48Rl22qzOhl\nq1VrNl48WO2noVgY6ufINHzjUldb8RXqO8rLvdJiZb9SP1RZHuONBgxAnQP1TYM=\n=w0pq\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree f6213fbe95c1829a85cff1d731e75c37d6e6b24e\nparent 8f4aa076a6c62c92fb34930847801a38970c29c2\nparent 77fb7d5dd5ca5fda418a089a2ab10b689e80f223\nauthor Andrei Scheinkman <ascheink@gmail.com> 1522772276 -0400\ncommitter GitHub <noreply@github.com> 1522772276 -0400\n\nMerge pull request #126 from mbrickn/patch-1\n\nUpdated links to use https"
+      }
+    },
+    "url": "https://api.github.com/repos/dgiuriciu/data/commits/51779e9dd31c2c7baf718399288e6943e8731e9c",
+    "html_url": "https://github.com/dgiuriciu/data/commit/51779e9dd31c2c7baf718399288e6943e8731e9c",
+    "comments_url": "https://api.github.com/repos/dgiuriciu/data/commits/51779e9dd31c2c7baf718399288e6943e8731e9c/comments",
+    "author": {
+      "login": "ascheink",
+      "id": 102197,
+      "node_id": "MDQ6VXNlcjEwMjE5Nw==",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/102197?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/ascheink",
+      "html_url": "https://github.com/ascheink",
+      "followers_url": "https://api.github.com/users/ascheink/followers",
+      "following_url": "https://api.github.com/users/ascheink/following{/other_user}",
+      "gists_url": "https://api.github.com/users/ascheink/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/ascheink/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/ascheink/subscriptions",
+      "organizations_url": "https://api.github.com/users/ascheink/orgs",
+      "repos_url": "https://api.github.com/users/ascheink/repos",
+      "events_url": "https://api.github.com/users/ascheink/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/ascheink/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "8f4aa076a6c62c92fb34930847801a38970c29c2",
+        "url": "https://api.github.com/repos/dgiuriciu/data/commits/8f4aa076a6c62c92fb34930847801a38970c29c2",
+        "html_url": "https://github.com/dgiuriciu/data/commit/8f4aa076a6c62c92fb34930847801a38970c29c2"
+      },
+      {
+        "sha": "77fb7d5dd5ca5fda418a089a2ab10b689e80f223",
+        "url": "https://api.github.com/repos/dgiuriciu/data/commits/77fb7d5dd5ca5fda418a089a2ab10b689e80f223",
+        "html_url": "https://github.com/dgiuriciu/data/commit/77fb7d5dd5ca5fda418a089a2ab10b689e80f223"
+      }
+    ]
+  },
+  {
+    "sha": "8f4aa076a6c62c92fb34930847801a38970c29c2",
+    "node_id": "MDY6Q29tbWl0MTQxMDAxNTczOjhmNGFhMDc2YTZjNjJjOTJmYjM0OTMwODQ3ODAxYTM4OTcwYzI5YzI=",
+    "commit": {
+      "author": {
+        "name": "Dhrumil Mehta",
+        "email": "dhrumil.mehta@gmail.com",
+        "date": "2018-04-03T15:29:02Z"
+      },
+      "committer": {
+        "name": "Dhrumil Mehta",
+        "email": "dhrumil.mehta@gmail.com",
+        "date": "2018-04-03T15:29:02Z"
+      },
+      "message": "update index",
+      "tree": {
+        "sha": "9c0931dec815d8828879818c19a7709b8487094a",
+        "url": "https://api.github.com/repos/dgiuriciu/data/git/trees/9c0931dec815d8828879818c19a7709b8487094a"
+      },
+      "url": "https://api.github.com/repos/dgiuriciu/data/git/commits/8f4aa076a6c62c92fb34930847801a38970c29c2",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/dgiuriciu/data/commits/8f4aa076a6c62c92fb34930847801a38970c29c2",
+    "html_url": "https://github.com/dgiuriciu/data/commit/8f4aa076a6c62c92fb34930847801a38970c29c2",
+    "comments_url": "https://api.github.com/repos/dgiuriciu/data/commits/8f4aa076a6c62c92fb34930847801a38970c29c2/comments",
+    "author": {
+      "login": "dmil",
+      "id": 468544,
+      "node_id": "MDQ6VXNlcjQ2ODU0NA==",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/468544?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/dmil",
+      "html_url": "https://github.com/dmil",
+      "followers_url": "https://api.github.com/users/dmil/followers",
+      "following_url": "https://api.github.com/users/dmil/following{/other_user}",
+      "gists_url": "https://api.github.com/users/dmil/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/dmil/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/dmil/subscriptions",
+      "organizations_url": "https://api.github.com/users/dmil/orgs",
+      "repos_url": "https://api.github.com/users/dmil/repos",
+      "events_url": "https://api.github.com/users/dmil/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/dmil/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "dmil",
+      "id": 468544,
+      "node_id": "MDQ6VXNlcjQ2ODU0NA==",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/468544?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/dmil",
+      "html_url": "https://github.com/dmil",
+      "followers_url": "https://api.github.com/users/dmil/followers",
+      "following_url": "https://api.github.com/users/dmil/following{/other_user}",
+      "gists_url": "https://api.github.com/users/dmil/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/dmil/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/dmil/subscriptions",
+      "organizations_url": "https://api.github.com/users/dmil/orgs",
+      "repos_url": "https://api.github.com/users/dmil/repos",
+      "events_url": "https://api.github.com/users/dmil/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/dmil/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "c65956f42025dc8068624c7b23ca2755dc1e9e3e",
+        "url": "https://api.github.com/repos/dgiuriciu/data/commits/c65956f42025dc8068624c7b23ca2755dc1e9e3e",
+        "html_url": "https://github.com/dgiuriciu/data/commit/c65956f42025dc8068624c7b23ca2755dc1e9e3e"
+      }
+    ]
+  },
+  {
+    "sha": "c65956f42025dc8068624c7b23ca2755dc1e9e3e",
+    "node_id": "MDY6Q29tbWl0MTQxMDAxNTczOmM2NTk1NmY0MjAyNWRjODA2ODYyNGM3YjIzY2EyNzU1ZGMxZTllM2U=",
+    "commit": {
+      "author": {
+        "name": "Dhrumil Mehta",
+        "email": "dhrumil.mehta@gmail.com",
+        "date": "2018-04-03T15:07:32Z"
+      },
+      "committer": {
+        "name": "Dhrumil Mehta",
+        "email": "dhrumil.mehta@gmail.com",
+        "date": "2018-04-03T15:07:32Z"
+      },
+      "message": "add to index",
+      "tree": {
+        "sha": "46533afe62b216b923118cb308d0a6ffb852bad6",
+        "url": "https://api.github.com/repos/dgiuriciu/data/git/trees/46533afe62b216b923118cb308d0a6ffb852bad6"
+      },
+      "url": "https://api.github.com/repos/dgiuriciu/data/git/commits/c65956f42025dc8068624c7b23ca2755dc1e9e3e",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/dgiuriciu/data/commits/c65956f42025dc8068624c7b23ca2755dc1e9e3e",
+    "html_url": "https://github.com/dgiuriciu/data/commit/c65956f42025dc8068624c7b23ca2755dc1e9e3e",
+    "comments_url": "https://api.github.com/repos/dgiuriciu/data/commits/c65956f42025dc8068624c7b23ca2755dc1e9e3e/comments",
+    "author": {
+      "login": "dmil",
+      "id": 468544,
+      "node_id": "MDQ6VXNlcjQ2ODU0NA==",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/468544?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/dmil",
+      "html_url": "https://github.com/dmil",
+      "followers_url": "https://api.github.com/users/dmil/followers",
+      "following_url": "https://api.github.com/users/dmil/following{/other_user}",
+      "gists_url": "https://api.github.com/users/dmil/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/dmil/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/dmil/subscriptions",
+      "organizations_url": "https://api.github.com/users/dmil/orgs",
+      "repos_url": "https://api.github.com/users/dmil/repos",
+      "events_url": "https://api.github.com/users/dmil/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/dmil/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "dmil",
+      "id": 468544,
+      "node_id": "MDQ6VXNlcjQ2ODU0NA==",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/468544?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/dmil",
+      "html_url": "https://github.com/dmil",
+      "followers_url": "https://api.github.com/users/dmil/followers",
+      "following_url": "https://api.github.com/users/dmil/following{/other_user}",
+      "gists_url": "https://api.github.com/users/dmil/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/dmil/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/dmil/subscriptions",
+      "organizations_url": "https://api.github.com/users/dmil/orgs",
+      "repos_url": "https://api.github.com/users/dmil/repos",
+      "events_url": "https://api.github.com/users/dmil/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/dmil/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "f420011fb3348cce3ccb9d7d3f418e604c279252",
+        "url": "https://api.github.com/repos/dgiuriciu/data/commits/f420011fb3348cce3ccb9d7d3f418e604c279252",
+        "html_url": "https://github.com/dgiuriciu/data/commit/f420011fb3348cce3ccb9d7d3f418e604c279252"
+      }
+    ]
+  },
+  {
+    "sha": "f420011fb3348cce3ccb9d7d3f418e604c279252",
+    "node_id": "MDY6Q29tbWl0MTQxMDAxNTczOmY0MjAwMTFmYjMzNDhjY2UzY2NiOWQ3ZDNmNDE4ZTYwNGMyNzkyNTI=",
+    "commit": {
+      "author": {
+        "name": "Dhrumil Mehta",
+        "email": "dhrumil.mehta@gmail.com",
+        "date": "2018-04-03T15:06:10Z"
+      },
+      "committer": {
+        "name": "Dhrumil Mehta",
+        "email": "dhrumil.mehta@gmail.com",
+        "date": "2018-04-03T15:06:10Z"
+      },
+      "message": "update README",
+      "tree": {
+        "sha": "5f6821a916c3db520b3972c08874f49f8524ad60",
+        "url": "https://api.github.com/repos/dgiuriciu/data/git/trees/5f6821a916c3db520b3972c08874f49f8524ad60"
+      },
+      "url": "https://api.github.com/repos/dgiuriciu/data/git/commits/f420011fb3348cce3ccb9d7d3f418e604c279252",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/dgiuriciu/data/commits/f420011fb3348cce3ccb9d7d3f418e604c279252",
+    "html_url": "https://github.com/dgiuriciu/data/commit/f420011fb3348cce3ccb9d7d3f418e604c279252",
+    "comments_url": "https://api.github.com/repos/dgiuriciu/data/commits/f420011fb3348cce3ccb9d7d3f418e604c279252/comments",
+    "author": {
+      "login": "dmil",
+      "id": 468544,
+      "node_id": "MDQ6VXNlcjQ2ODU0NA==",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/468544?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/dmil",
+      "html_url": "https://github.com/dmil",
+      "followers_url": "https://api.github.com/users/dmil/followers",
+      "following_url": "https://api.github.com/users/dmil/following{/other_user}",
+      "gists_url": "https://api.github.com/users/dmil/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/dmil/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/dmil/subscriptions",
+      "organizations_url": "https://api.github.com/users/dmil/orgs",
+      "repos_url": "https://api.github.com/users/dmil/repos",
+      "events_url": "https://api.github.com/users/dmil/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/dmil/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "dmil",
+      "id": 468544,
+      "node_id": "MDQ6VXNlcjQ2ODU0NA==",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/468544?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/dmil",
+      "html_url": "https://github.com/dmil",
+      "followers_url": "https://api.github.com/users/dmil/followers",
+      "following_url": "https://api.github.com/users/dmil/following{/other_user}",
+      "gists_url": "https://api.github.com/users/dmil/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/dmil/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/dmil/subscriptions",
+      "organizations_url": "https://api.github.com/users/dmil/orgs",
+      "repos_url": "https://api.github.com/users/dmil/repos",
+      "events_url": "https://api.github.com/users/dmil/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/dmil/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "a64bad0d8ac583160b82d54eaf45addb9f28d512",
+        "url": "https://api.github.com/repos/dgiuriciu/data/commits/a64bad0d8ac583160b82d54eaf45addb9f28d512",
+        "html_url": "https://github.com/dgiuriciu/data/commit/a64bad0d8ac583160b82d54eaf45addb9f28d512"
+      }
+    ]
+  },
+  {
+    "sha": "a64bad0d8ac583160b82d54eaf45addb9f28d512",
+    "node_id": "MDY6Q29tbWl0MTQxMDAxNTczOmE2NGJhZDBkOGFjNTgzMTYwYjgyZDU0ZWFmNDVhZGRiOWYyOGQ1MTI=",
+    "commit": {
+      "author": {
+        "name": "Dhrumil Mehta",
+        "email": "dhrumil.mehta@gmail.com",
+        "date": "2018-04-03T15:05:26Z"
+      },
+      "committer": {
+        "name": "Dhrumil Mehta",
+        "email": "dhrumil.mehta@gmail.com",
+        "date": "2018-04-03T15:05:26Z"
+      },
+      "message": "update README",
+      "tree": {
+        "sha": "94fce2517a0468066b7d6ca5da2b9d8553b69daa",
+        "url": "https://api.github.com/repos/dgiuriciu/data/git/trees/94fce2517a0468066b7d6ca5da2b9d8553b69daa"
+      },
+      "url": "https://api.github.com/repos/dgiuriciu/data/git/commits/a64bad0d8ac583160b82d54eaf45addb9f28d512",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/dgiuriciu/data/commits/a64bad0d8ac583160b82d54eaf45addb9f28d512",
+    "html_url": "https://github.com/dgiuriciu/data/commit/a64bad0d8ac583160b82d54eaf45addb9f28d512",
+    "comments_url": "https://api.github.com/repos/dgiuriciu/data/commits/a64bad0d8ac583160b82d54eaf45addb9f28d512/comments",
+    "author": {
+      "login": "dmil",
+      "id": 468544,
+      "node_id": "MDQ6VXNlcjQ2ODU0NA==",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/468544?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/dmil",
+      "html_url": "https://github.com/dmil",
+      "followers_url": "https://api.github.com/users/dmil/followers",
+      "following_url": "https://api.github.com/users/dmil/following{/other_user}",
+      "gists_url": "https://api.github.com/users/dmil/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/dmil/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/dmil/subscriptions",
+      "organizations_url": "https://api.github.com/users/dmil/orgs",
+      "repos_url": "https://api.github.com/users/dmil/repos",
+      "events_url": "https://api.github.com/users/dmil/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/dmil/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "dmil",
+      "id": 468544,
+      "node_id": "MDQ6VXNlcjQ2ODU0NA==",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/468544?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/dmil",
+      "html_url": "https://github.com/dmil",
+      "followers_url": "https://api.github.com/users/dmil/followers",
+      "following_url": "https://api.github.com/users/dmil/following{/other_user}",
+      "gists_url": "https://api.github.com/users/dmil/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/dmil/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/dmil/subscriptions",
+      "organizations_url": "https://api.github.com/users/dmil/orgs",
+      "repos_url": "https://api.github.com/users/dmil/repos",
+      "events_url": "https://api.github.com/users/dmil/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/dmil/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "6100bee93a55602469f1bdfa7ce8451c733b313e",
+        "url": "https://api.github.com/repos/dgiuriciu/data/commits/6100bee93a55602469f1bdfa7ce8451c733b313e",
+        "html_url": "https://github.com/dgiuriciu/data/commit/6100bee93a55602469f1bdfa7ce8451c733b313e"
+      }
+    ]
+  },
+  {
+    "sha": "6100bee93a55602469f1bdfa7ce8451c733b313e",
+    "node_id": "MDY6Q29tbWl0MTQxMDAxNTczOjYxMDBiZWU5M2E1NTYwMjQ2OWYxYmRmYTdjZTg0NTFjNzMzYjMxM2U=",
+    "commit": {
+      "author": {
+        "name": "Dhrumil Mehta",
+        "email": "dhrumil.mehta@gmail.com",
+        "date": "2018-03-30T19:27:18Z"
+      },
+      "committer": {
+        "name": "Dhrumil Mehta",
+        "email": "dhrumil.mehta@gmail.com",
+        "date": "2018-03-30T19:27:18Z"
+      },
+      "message": "update README",
+      "tree": {
+        "sha": "b8db6cd64fee6f8fc9aa2299b003ad4f6226a93f",
+        "url": "https://api.github.com/repos/dgiuriciu/data/git/trees/b8db6cd64fee6f8fc9aa2299b003ad4f6226a93f"
+      },
+      "url": "https://api.github.com/repos/dgiuriciu/data/git/commits/6100bee93a55602469f1bdfa7ce8451c733b313e",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/dgiuriciu/data/commits/6100bee93a55602469f1bdfa7ce8451c733b313e",
+    "html_url": "https://github.com/dgiuriciu/data/commit/6100bee93a55602469f1bdfa7ce8451c733b313e",
+    "comments_url": "https://api.github.com/repos/dgiuriciu/data/commits/6100bee93a55602469f1bdfa7ce8451c733b313e/comments",
+    "author": {
+      "login": "dmil",
+      "id": 468544,
+      "node_id": "MDQ6VXNlcjQ2ODU0NA==",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/468544?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/dmil",
+      "html_url": "https://github.com/dmil",
+      "followers_url": "https://api.github.com/users/dmil/followers",
+      "following_url": "https://api.github.com/users/dmil/following{/other_user}",
+      "gists_url": "https://api.github.com/users/dmil/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/dmil/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/dmil/subscriptions",
+      "organizations_url": "https://api.github.com/users/dmil/orgs",
+      "repos_url": "https://api.github.com/users/dmil/repos",
+      "events_url": "https://api.github.com/users/dmil/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/dmil/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "dmil",
+      "id": 468544,
+      "node_id": "MDQ6VXNlcjQ2ODU0NA==",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/468544?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/dmil",
+      "html_url": "https://github.com/dmil",
+      "followers_url": "https://api.github.com/users/dmil/followers",
+      "following_url": "https://api.github.com/users/dmil/following{/other_user}",
+      "gists_url": "https://api.github.com/users/dmil/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/dmil/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/dmil/subscriptions",
+      "organizations_url": "https://api.github.com/users/dmil/orgs",
+      "repos_url": "https://api.github.com/users/dmil/repos",
+      "events_url": "https://api.github.com/users/dmil/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/dmil/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "f6098ea552020b1b9402d59e226bc1de574708e9",
+        "url": "https://api.github.com/repos/dgiuriciu/data/commits/f6098ea552020b1b9402d59e226bc1de574708e9",
+        "html_url": "https://github.com/dgiuriciu/data/commit/f6098ea552020b1b9402d59e226bc1de574708e9"
+      }
+    ]
+  },
+  {
+    "sha": "f6098ea552020b1b9402d59e226bc1de574708e9",
+    "node_id": "MDY6Q29tbWl0MTQxMDAxNTczOmY2MDk4ZWE1NTIwMjBiMWI5NDAyZDU5ZTIyNmJjMWRlNTc0NzA4ZTk=",
+    "commit": {
+      "author": {
+        "name": "Dhrumil Mehta",
+        "email": "dhrumil.mehta@gmail.com",
+        "date": "2018-03-30T19:25:55Z"
+      },
+      "committer": {
+        "name": "Dhrumil Mehta",
+        "email": "dhrumil.mehta@gmail.com",
+        "date": "2018-03-30T19:25:55Z"
+      },
+      "message": "rename file",
+      "tree": {
+        "sha": "620486036bff2e33cf300cd68aca1899f1640fc9",
+        "url": "https://api.github.com/repos/dgiuriciu/data/git/trees/620486036bff2e33cf300cd68aca1899f1640fc9"
+      },
+      "url": "https://api.github.com/repos/dgiuriciu/data/git/commits/f6098ea552020b1b9402d59e226bc1de574708e9",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/dgiuriciu/data/commits/f6098ea552020b1b9402d59e226bc1de574708e9",
+    "html_url": "https://github.com/dgiuriciu/data/commit/f6098ea552020b1b9402d59e226bc1de574708e9",
+    "comments_url": "https://api.github.com/repos/dgiuriciu/data/commits/f6098ea552020b1b9402d59e226bc1de574708e9/comments",
+    "author": {
+      "login": "dmil",
+      "id": 468544,
+      "node_id": "MDQ6VXNlcjQ2ODU0NA==",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/468544?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/dmil",
+      "html_url": "https://github.com/dmil",
+      "followers_url": "https://api.github.com/users/dmil/followers",
+      "following_url": "https://api.github.com/users/dmil/following{/other_user}",
+      "gists_url": "https://api.github.com/users/dmil/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/dmil/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/dmil/subscriptions",
+      "organizations_url": "https://api.github.com/users/dmil/orgs",
+      "repos_url": "https://api.github.com/users/dmil/repos",
+      "events_url": "https://api.github.com/users/dmil/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/dmil/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "dmil",
+      "id": 468544,
+      "node_id": "MDQ6VXNlcjQ2ODU0NA==",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/468544?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/dmil",
+      "html_url": "https://github.com/dmil",
+      "followers_url": "https://api.github.com/users/dmil/followers",
+      "following_url": "https://api.github.com/users/dmil/following{/other_user}",
+      "gists_url": "https://api.github.com/users/dmil/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/dmil/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/dmil/subscriptions",
+      "organizations_url": "https://api.github.com/users/dmil/orgs",
+      "repos_url": "https://api.github.com/users/dmil/repos",
+      "events_url": "https://api.github.com/users/dmil/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/dmil/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "313343cbf3cac41681078151c226759299f94703",
+        "url": "https://api.github.com/repos/dgiuriciu/data/commits/313343cbf3cac41681078151c226759299f94703",
+        "html_url": "https://github.com/dgiuriciu/data/commit/313343cbf3cac41681078151c226759299f94703"
+      }
+    ]
+  },
+  {
+    "sha": "313343cbf3cac41681078151c226759299f94703",
+    "node_id": "MDY6Q29tbWl0MTQxMDAxNTczOjMxMzM0M2NiZjNjYWM0MTY4MTA3ODE1MWMyMjY3NTkyOTlmOTQ3MDM=",
+    "commit": {
+      "author": {
+        "name": "Dhrumil Mehta",
+        "email": "dhrumil.mehta@gmail.com",
+        "date": "2018-03-30T19:25:05Z"
+      },
+      "committer": {
+        "name": "Dhrumil Mehta",
+        "email": "dhrumil.mehta@gmail.com",
+        "date": "2018-03-30T19:25:05Z"
+      },
+      "message": "add special-elections data",
+      "tree": {
+        "sha": "1cbf45f2140d1d8318f57dfa48c0a739d3c64033",
+        "url": "https://api.github.com/repos/dgiuriciu/data/git/trees/1cbf45f2140d1d8318f57dfa48c0a739d3c64033"
+      },
+      "url": "https://api.github.com/repos/dgiuriciu/data/git/commits/313343cbf3cac41681078151c226759299f94703",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/dgiuriciu/data/commits/313343cbf3cac41681078151c226759299f94703",
+    "html_url": "https://github.com/dgiuriciu/data/commit/313343cbf3cac41681078151c226759299f94703",
+    "comments_url": "https://api.github.com/repos/dgiuriciu/data/commits/313343cbf3cac41681078151c226759299f94703/comments",
+    "author": {
+      "login": "dmil",
+      "id": 468544,
+      "node_id": "MDQ6VXNlcjQ2ODU0NA==",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/468544?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/dmil",
+      "html_url": "https://github.com/dmil",
+      "followers_url": "https://api.github.com/users/dmil/followers",
+      "following_url": "https://api.github.com/users/dmil/following{/other_user}",
+      "gists_url": "https://api.github.com/users/dmil/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/dmil/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/dmil/subscriptions",
+      "organizations_url": "https://api.github.com/users/dmil/orgs",
+      "repos_url": "https://api.github.com/users/dmil/repos",
+      "events_url": "https://api.github.com/users/dmil/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/dmil/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "dmil",
+      "id": 468544,
+      "node_id": "MDQ6VXNlcjQ2ODU0NA==",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/468544?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/dmil",
+      "html_url": "https://github.com/dmil",
+      "followers_url": "https://api.github.com/users/dmil/followers",
+      "following_url": "https://api.github.com/users/dmil/following{/other_user}",
+      "gists_url": "https://api.github.com/users/dmil/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/dmil/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/dmil/subscriptions",
+      "organizations_url": "https://api.github.com/users/dmil/orgs",
+      "repos_url": "https://api.github.com/users/dmil/repos",
+      "events_url": "https://api.github.com/users/dmil/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/dmil/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "7f23870a39b3424101a5131fdc4c6e18f3698b17",
+        "url": "https://api.github.com/repos/dgiuriciu/data/commits/7f23870a39b3424101a5131fdc4c6e18f3698b17",
+        "html_url": "https://github.com/dgiuriciu/data/commit/7f23870a39b3424101a5131fdc4c6e18f3698b17"
+      }
+    ]
+  },
+  {
+    "sha": "77fb7d5dd5ca5fda418a089a2ab10b689e80f223",
+    "node_id": "MDY6Q29tbWl0MTQxMDAxNTczOjc3ZmI3ZDVkZDVjYTVmZGE0MThhMDg5YTJhYjEwYjY4OWU4MGYyMjM=",
+    "commit": {
+      "author": {
+        "name": "Maxwell Paul Brickner",
+        "email": "mbrickn@users.noreply.github.com",
+        "date": "2018-03-29T21:13:14Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2018-03-29T21:13:14Z"
+      },
+      "message": "Updated links to use https\n\nUpdated links to use https to avoid a redirect.",
+      "tree": {
+        "sha": "f0ae4185218916e80094da2cfba6feca554823ab",
+        "url": "https://api.github.com/repos/dgiuriciu/data/git/trees/f0ae4185218916e80094da2cfba6feca554823ab"
+      },
+      "url": "https://api.github.com/repos/dgiuriciu/data/git/commits/77fb7d5dd5ca5fda418a089a2ab10b689e80f223",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJavVbqCRBK7hj4Ov3rIwAAdHIIAK21aQ3JMMozCvPBKicXTsrY\nuuSq8SfYNQD3Y1q8u71aSCO5VJwFRUHDwLlLIty3wfuLEMdezBoeB495jeR/YOWC\n1JN1YBAYkuhq4DeDpK6+h/Hlg30Hli3G3fup9zJsViZb+HIMYWsPW8nntdl0V7Qz\ncIpaNxluBe7rx7J6tLHvP0qXKrBg5CZwX3z9CsLBPs5PYT4Cb15XAZYKVQmpCbd/\nfUTo9YaKjpV2OumqU6T7PtcvS8ot1ynruMLGHbViCj1nwLIXumMFeWPsBfIZlyAg\nF85bY6Lpc2iKHKI36xijtu3Q0AuZtaN1d00ZS465SeDGI2Phjjk5wLBqWHoPzb4=\n=G1UX\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree f0ae4185218916e80094da2cfba6feca554823ab\nparent 7f23870a39b3424101a5131fdc4c6e18f3698b17\nauthor Maxwell Paul Brickner <mbrickn@users.noreply.github.com> 1522357994 -0400\ncommitter GitHub <noreply@github.com> 1522357994 -0400\n\nUpdated links to use https\n\nUpdated links to use https to avoid a redirect."
+      }
+    },
+    "url": "https://api.github.com/repos/dgiuriciu/data/commits/77fb7d5dd5ca5fda418a089a2ab10b689e80f223",
+    "html_url": "https://github.com/dgiuriciu/data/commit/77fb7d5dd5ca5fda418a089a2ab10b689e80f223",
+    "comments_url": "https://api.github.com/repos/dgiuriciu/data/commits/77fb7d5dd5ca5fda418a089a2ab10b689e80f223/comments",
+    "author": {
+      "login": "mbrickn",
+      "id": 5591107,
+      "node_id": "MDQ6VXNlcjU1OTExMDc=",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/5591107?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/mbrickn",
+      "html_url": "https://github.com/mbrickn",
+      "followers_url": "https://api.github.com/users/mbrickn/followers",
+      "following_url": "https://api.github.com/users/mbrickn/following{/other_user}",
+      "gists_url": "https://api.github.com/users/mbrickn/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/mbrickn/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/mbrickn/subscriptions",
+      "organizations_url": "https://api.github.com/users/mbrickn/orgs",
+      "repos_url": "https://api.github.com/users/mbrickn/repos",
+      "events_url": "https://api.github.com/users/mbrickn/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/mbrickn/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "7f23870a39b3424101a5131fdc4c6e18f3698b17",
+        "url": "https://api.github.com/repos/dgiuriciu/data/commits/7f23870a39b3424101a5131fdc4c6e18f3698b17",
+        "html_url": "https://github.com/dgiuriciu/data/commit/7f23870a39b3424101a5131fdc4c6e18f3698b17"
+      }
+    ]
+  },
+  {
+    "sha": "7f23870a39b3424101a5131fdc4c6e18f3698b17",
+    "node_id": "MDY6Q29tbWl0MTQxMDAxNTczOjdmMjM4NzBhMzliMzQyNDEwMWE1MTMxZmRjNGM2ZTE4ZjM2OThiMTc=",
+    "commit": {
+      "author": {
+        "name": "Jay Boice",
+        "email": "jboice@gmail.com",
+        "date": "2018-03-28T15:04:41Z"
+      },
+      "committer": {
+        "name": "Jay Boice",
+        "email": "jboice@gmail.com",
+        "date": "2018-03-28T15:04:41Z"
+      },
+      "message": "Update MLB url",
+      "tree": {
+        "sha": "fe57ff632e94a7181d34e897b0d8433792e40d21",
+        "url": "https://api.github.com/repos/dgiuriciu/data/git/trees/fe57ff632e94a7181d34e897b0d8433792e40d21"
+      },
+      "url": "https://api.github.com/repos/dgiuriciu/data/git/commits/7f23870a39b3424101a5131fdc4c6e18f3698b17",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/dgiuriciu/data/commits/7f23870a39b3424101a5131fdc4c6e18f3698b17",
+    "html_url": "https://github.com/dgiuriciu/data/commit/7f23870a39b3424101a5131fdc4c6e18f3698b17",
+    "comments_url": "https://api.github.com/repos/dgiuriciu/data/commits/7f23870a39b3424101a5131fdc4c6e18f3698b17/comments",
+    "author": {
+      "login": "jayb",
+      "id": 57236,
+      "node_id": "MDQ6VXNlcjU3MjM2",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/57236?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jayb",
+      "html_url": "https://github.com/jayb",
+      "followers_url": "https://api.github.com/users/jayb/followers",
+      "following_url": "https://api.github.com/users/jayb/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jayb/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jayb/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jayb/subscriptions",
+      "organizations_url": "https://api.github.com/users/jayb/orgs",
+      "repos_url": "https://api.github.com/users/jayb/repos",
+      "events_url": "https://api.github.com/users/jayb/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jayb/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "jayb",
+      "id": 57236,
+      "node_id": "MDQ6VXNlcjU3MjM2",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/57236?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jayb",
+      "html_url": "https://github.com/jayb",
+      "followers_url": "https://api.github.com/users/jayb/followers",
+      "following_url": "https://api.github.com/users/jayb/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jayb/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jayb/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jayb/subscriptions",
+      "organizations_url": "https://api.github.com/users/jayb/orgs",
+      "repos_url": "https://api.github.com/users/jayb/repos",
+      "events_url": "https://api.github.com/users/jayb/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jayb/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "ec508b0b939846f2156c5004d60974eeb3458bfd",
+        "url": "https://api.github.com/repos/dgiuriciu/data/commits/ec508b0b939846f2156c5004d60974eeb3458bfd",
+        "html_url": "https://github.com/dgiuriciu/data/commit/ec508b0b939846f2156c5004d60974eeb3458bfd"
+      }
+    ]
+  },
+  {
+    "sha": "ec508b0b939846f2156c5004d60974eeb3458bfd",
+    "node_id": "MDY6Q29tbWl0MTQxMDAxNTczOmVjNTA4YjBiOTM5ODQ2ZjIxNTZjNTAwNGQ2MDk3NGVlYjM0NThiZmQ=",
+    "commit": {
+      "author": {
+        "name": "Jay Boice",
+        "email": "jboice@gmail.com",
+        "date": "2018-03-28T15:00:40Z"
+      },
+      "committer": {
+        "name": "Jay Boice",
+        "email": "jboice@gmail.com",
+        "date": "2018-03-28T15:00:40Z"
+      },
+      "message": "Update MLB url",
+      "tree": {
+        "sha": "ac6ed8e4a4e169244e756fcd62c62842b71bbbfa",
+        "url": "https://api.github.com/repos/dgiuriciu/data/git/trees/ac6ed8e4a4e169244e756fcd62c62842b71bbbfa"
+      },
+      "url": "https://api.github.com/repos/dgiuriciu/data/git/commits/ec508b0b939846f2156c5004d60974eeb3458bfd",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/dgiuriciu/data/commits/ec508b0b939846f2156c5004d60974eeb3458bfd",
+    "html_url": "https://github.com/dgiuriciu/data/commit/ec508b0b939846f2156c5004d60974eeb3458bfd",
+    "comments_url": "https://api.github.com/repos/dgiuriciu/data/commits/ec508b0b939846f2156c5004d60974eeb3458bfd/comments",
+    "author": {
+      "login": "jayb",
+      "id": 57236,
+      "node_id": "MDQ6VXNlcjU3MjM2",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/57236?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jayb",
+      "html_url": "https://github.com/jayb",
+      "followers_url": "https://api.github.com/users/jayb/followers",
+      "following_url": "https://api.github.com/users/jayb/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jayb/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jayb/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jayb/subscriptions",
+      "organizations_url": "https://api.github.com/users/jayb/orgs",
+      "repos_url": "https://api.github.com/users/jayb/repos",
+      "events_url": "https://api.github.com/users/jayb/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jayb/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "jayb",
+      "id": 57236,
+      "node_id": "MDQ6VXNlcjU3MjM2",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/57236?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jayb",
+      "html_url": "https://github.com/jayb",
+      "followers_url": "https://api.github.com/users/jayb/followers",
+      "following_url": "https://api.github.com/users/jayb/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jayb/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jayb/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jayb/subscriptions",
+      "organizations_url": "https://api.github.com/users/jayb/orgs",
+      "repos_url": "https://api.github.com/users/jayb/repos",
+      "events_url": "https://api.github.com/users/jayb/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jayb/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "adabcc7aa9f4847625b4b9754b1b0be68317ef8d",
+        "url": "https://api.github.com/repos/dgiuriciu/data/commits/adabcc7aa9f4847625b4b9754b1b0be68317ef8d",
+        "html_url": "https://github.com/dgiuriciu/data/commit/adabcc7aa9f4847625b4b9754b1b0be68317ef8d"
+      }
+    ]
+  },
+  {
+    "sha": "adabcc7aa9f4847625b4b9754b1b0be68317ef8d",
+    "node_id": "MDY6Q29tbWl0MTQxMDAxNTczOmFkYWJjYzdhYTlmNDg0NzYyNWI0Yjk3NTRiMWIwYmU2ODMxN2VmOGQ=",
+    "commit": {
+      "author": {
+        "name": "Dhrumil Mehta",
+        "email": "dhrumil.mehta@gmail.com",
+        "date": "2018-03-14T19:14:13Z"
+      },
+      "committer": {
+        "name": "Dhrumil Mehta",
+        "email": "dhrumil.mehta@gmail.com",
+        "date": "2018-03-14T19:14:13Z"
+      },
+      "message": "add congress-trump-score",
+      "tree": {
+        "sha": "d33f428b1022b7a63abfae213e29fc6be3903253",
+        "url": "https://api.github.com/repos/dgiuriciu/data/git/trees/d33f428b1022b7a63abfae213e29fc6be3903253"
+      },
+      "url": "https://api.github.com/repos/dgiuriciu/data/git/commits/adabcc7aa9f4847625b4b9754b1b0be68317ef8d",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/dgiuriciu/data/commits/adabcc7aa9f4847625b4b9754b1b0be68317ef8d",
+    "html_url": "https://github.com/dgiuriciu/data/commit/adabcc7aa9f4847625b4b9754b1b0be68317ef8d",
+    "comments_url": "https://api.github.com/repos/dgiuriciu/data/commits/adabcc7aa9f4847625b4b9754b1b0be68317ef8d/comments",
+    "author": {
+      "login": "dmil",
+      "id": 468544,
+      "node_id": "MDQ6VXNlcjQ2ODU0NA==",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/468544?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/dmil",
+      "html_url": "https://github.com/dmil",
+      "followers_url": "https://api.github.com/users/dmil/followers",
+      "following_url": "https://api.github.com/users/dmil/following{/other_user}",
+      "gists_url": "https://api.github.com/users/dmil/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/dmil/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/dmil/subscriptions",
+      "organizations_url": "https://api.github.com/users/dmil/orgs",
+      "repos_url": "https://api.github.com/users/dmil/repos",
+      "events_url": "https://api.github.com/users/dmil/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/dmil/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "dmil",
+      "id": 468544,
+      "node_id": "MDQ6VXNlcjQ2ODU0NA==",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/468544?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/dmil",
+      "html_url": "https://github.com/dmil",
+      "followers_url": "https://api.github.com/users/dmil/followers",
+      "following_url": "https://api.github.com/users/dmil/following{/other_user}",
+      "gists_url": "https://api.github.com/users/dmil/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/dmil/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/dmil/subscriptions",
+      "organizations_url": "https://api.github.com/users/dmil/orgs",
+      "repos_url": "https://api.github.com/users/dmil/repos",
+      "events_url": "https://api.github.com/users/dmil/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/dmil/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "aa3819f336c4456b524b80c4a97c199ec4517042",
+        "url": "https://api.github.com/repos/dgiuriciu/data/commits/aa3819f336c4456b524b80c4a97c199ec4517042",
+        "html_url": "https://github.com/dgiuriciu/data/commit/aa3819f336c4456b524b80c4a97c199ec4517042"
+      }
+    ]
+  }
+]
